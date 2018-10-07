@@ -26,7 +26,7 @@ La maturité c’est ce qui se produit quand tu as appris à tenir seulement à 
 Je conçois la vie comme le consentement de la souffrance. Une fois que tu es en paix avec toutes les merdes que la vie t’envoye, tu deviens invincible.
 ​
 
-# Chapitre 2: Le bonheur est un problème
+# Chapitre 2 Le bonheur est un problème
 Le bonheur n’est pas réductible à une équation qu’il s’agirait de résoudre. L’insatisfaction et le mal-être sont nécessaire à la construction d’un bonheur tangible.
 
 Tu es constitué pour être insatisfait de ce que tu as et satisfait uniquement de ce que tu n’as pas
@@ -53,7 +53,7 @@ Pour savoir qui tu es, tu dois savoir pour quoi tu es prêt à te battre. Ce n�
 Si tu penses que tu as le droit de faire une pause à un moment donné tu n’as pas pigé le truc. Parce que la joie réside justement dans l’action même d’escalader la pente.
 ​
 
-# Chapitre 3: Tu n’as rien d’extraordinaire tu sais
+# Chapitre 3 Tu n’as rien d’extraordinaire tu sais
 
 Dès lors que tu as des problèmes insolubles ton inconscient te suggère que tu es un cas à part: soit particulièrement extraordinaire, soit particulièrement abruti. En tout cas, que tu es différent des autres et que par conséquent les règles doivent être différentes pour toi. Plus tu es impuissant face à tes problèmes plus tu te sens différent:
   * Je suis génial vous êtes tous nulle à chier, donc je mérite un traitement spécial.
