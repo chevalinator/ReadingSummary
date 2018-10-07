@@ -1,8 +1,9 @@
 
 
-#Chapitre 1 Inutile d’essayer
+# Chapitre 1 Inutile d’essayer
 
 **Loi de l’effort inverse**
+
   *Plus tu cherches à te sentir mieux, moins tu te sens bien.
 
   *l’aspiration à vivre des expériences plus positives est en soi une expérience négative. Et, paradoxalement, consentir à vivre les expériences négatives qui se présentent ou s’imposent à nous constitue en soi une expérience positive.
