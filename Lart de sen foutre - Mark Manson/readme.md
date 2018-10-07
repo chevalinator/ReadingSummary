@@ -4,9 +4,9 @@
 
 **Loi de l’effort inverse**
 
-  *Plus tu cherches à te sentir mieux, moins tu te sens bien.
+  * Plus tu cherches à te sentir mieux, moins tu te sens bien.
 
-  *l’aspiration à vivre des expériences plus positives est en soi une expérience négative. Et, paradoxalement, consentir à vivre les expériences négatives qui se présentent ou s’imposent à nous constitue en soi une expérience positive.
+  * L’aspiration à vivre des expériences plus positives est en soi une expérience négative. Et, paradoxalement, consentir à vivre les expériences négatives qui se présentent ou s’imposent à nous constitue en soi une expérience positive.
   
 La moindre tentative de fuite du négatif produit l’effet inverse. L’évitement de la souffrance produit de la souffrance.en revanche si tu parviens à ne pas t’en faire une montagne, alors rien ne saura t’arrêter.
 -Dans la vie tout se qui vaut la peine s’obstient en consentant à surmonter l’expérience négative associée.
