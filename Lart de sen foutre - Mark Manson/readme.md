@@ -52,3 +52,76 @@ Pour savoir qui tu es, tu dois savoir pour quoi tu es prêt à te battre. Ce n�
 
 Si tu penses que tu as le droit de faire une pause à un moment donné tu n’as pas pigé le truc. Parce que la joie réside justement dans l’action même d’escalader la pente.
 ​
+
+# Chapitre 3: Tu n’as rien d’extraordinaire tu sais
+
+Dès lors que tu as des problèmes insolubles ton inconscient te suggère que tu es un cas à part: soit particulièrement extraordinaire, soit particulièrement abruti. En tout cas, que tu es différent des autres et que par conséquent les règles doivent être différentes pour toi. Plus tu es impuissant face à tes problèmes plus tu te sens différent:
+  * Je suis génial vous êtes tous nulle à chier, donc je mérite un traitement spécial.
+  * Je suis nulle à chier et vous êtes géniaux, donc je mérite un traitement spécial.
+  
+Les gens qui ont un sentiment exagéré de leur importance oscillent généralement entre complexe de supériorité et complexe d’infériorité selon l’état du moment.
+
+Tout se passe comme si l'usage de technologie autorisait nos fragilités intérieures à se déchaîner comme jamais. Puis on te donne la liberté de t’exprimer plus tu revendiques la liberté de t’en prendre à tous ceux qui ne sont pas d’accord avec toi.
+
+# Chapitre 4 La valeur de la souffrance
+L’oignon de la conscience de soi
+  * Appréhension basique des émotions
+  * Pourquoi tu ressens certaines émotions
+  * Valeurs personnelles: pour quelles raisons est ce que je considère telle expérience comme un succès ou échec. Selon quels critères est-ce que je me juge et jugent les autres autour de moi?
+
+Les problèmes peuvent bien être inévitables, le sens de chaque problème lui ne l’est pas. On contrôle le sens des problèmes à partir de la manière dont on choisit de les penser et du critère qu’on choisit pour les évaluer.
+
+Si tu veux faire évoluer ta manière de percevoir tes problèmes, alors il te faut modifier tes valeurs ou tes instruments de mesure de l’échec et de la réussite.
+
+Certaines valeurs sont meilleures que d’autres i.e. elle débouchent sur des problèmes aisément et régulièrement résolu. D’autre sur des problèmes inextricables.
+
+Fausses valeurs
+  * Le plaisir
+  * La réussite matérielle : indexer ta propre valeur sur ta conduite et non sur les signes extérieurs accumulés
+  * Avoir toujours raisons : biais cognitifs
+  * Rester positif quoi qu’il arrive
+  
+Critères pour identifier de mauvaises valeurs
+  1. Basé sur des superstitions
+  2. Socialement destructrice
+  3. Ni immédiates, ni contrôlables
+  
+Exemple de mauvaises valeurs
+  * Domination par manipulation ou violence
+  * Baiser n’importe qui 
+  * Envoyer chier tout le monde
+  * Se sentir bien tout le temps
+  * Se regarder le nombril
+  * Ne jamais rester seul
+  * Être riche pour être riche
+  * Être apprécié par tout le monde.
+
+Terminer un marathon rend plus heureux que manger un gâteau au chocolat. Élever des enfants épanouit davantage que gagner à un jeu vidéo.
+> Un jour, avec le recul, les années de luttes t’apparaîtront comme les plus belles.
+> - Sigmund Freud
+
+Valeur cool
+  * Basé sur réalité
+  * Socialement constructive
+  * Immédiate et contrôlable
+  
+Exemple de valeur cool
+  * Honnêteté
+  * Innovation
+  * Vulnérabilité
+  * Se défendre
+  * Défendre les autres
+  * Se respecter
+  * La curiosité
+  * La charité
+  * L’humilité
+  * La créativité
+  
+Tout ça pour dire que le développement personnel consiste à accorder la priorité à des valeurs plus cool, à choisir de focaliser son attention sur des trucs qui en valent beaucoup plus la peine. Parce que en se faisant tu te confrontes à de meilleurs problèmes. Et quand tu te confrontes à de meilleurs problème ta vie s'en trouve améliorée.
+
+Valeur du livre
+  * Prendre la responsabilité de se qui t’arrive
+  * Reconnaître son ignorance, échec, rejet, 
+  * Condition de mortel
+​
+​
