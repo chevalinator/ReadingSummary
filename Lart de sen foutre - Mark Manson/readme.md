@@ -98,7 +98,7 @@ Exemple de mauvaises valeurs
 
 Terminer un marathon rend plus heureux que manger un gâteau au chocolat. Élever des enfants épanouit davantage que gagner à un jeu vidéo.
 > Un jour, avec le recul, les années de luttes t’apparaîtront comme les plus belles.
-> - Sigmund Freud
+> -Sigmund Freud
 
 Valeur cool
   * Basé sur réalité
@@ -124,4 +124,27 @@ Valeur du livre
   * Reconnaître son ignorance, échec, rejet, 
   * Condition de mortel
 ​
+# Chapitre 5 Tu fais des choix tout le temps
+La différence entre une situation ressentie comme accablante et une autre perçue comme galvanisante est dans le second cas d’avoir pu exercer un choix.
+
+**Il y a une différence entre faute et responsabilité. La faute peut être à quelqu’un d’autre mais tu portes toujours la responsabilité de tes expériences. 
+Exemple de sa blonde qui l’a trompé: cela n’est pas de sa faute mais c’est sa responsabilité de décider comment réagir. Avec le recul il se rendit compte que c’était en partie de sa faire aussi.**
+
+L’indignation est comme beaucoup de choses qui font du bien sur le moment mais qui, a la longue, nous dévorent de l’intérieur. Et elle est encore plus insidieuse que la plupart des vices parce que nous ne reconnaissons pas consciemment qu’elle est un plaisir.
+​
+# Chapitre 6 Tu te trompes sur toute la ligne
+
+**Il s’agit de réfléchir à tes conneries aujourd’hui afin de te tromper un peu moins demain. Vu sous cet angle, le développement personnel peut se concevoir comme discipline scientifique. Nos valeurs sont nos hypothèse de travail, nos action y font office d’expérience. Les émotions et les schémas de pensée qui en découle sont donnés, résultats des études que nous menons.**
+
+J’imagine les terriens dans 5 siècle: ils rigoleront bien de nos certitudes, de nos valeurs.
+
+**Expérience d’allumer une lumière avec des boutons. Les lumières allument random mais les gens pensent qu’ils ont trouvé un sequence. Chaque personne trouve une séquence différente.**
+
+Notre cerveau est conçu pour être efficace, pas pour être exact.
+
+Les gens faisant le mal ont une bonne estime d’eux: les violeurs persuadés que le corps féminin leur appartient.
+
+Plus tu recherches la certitude, plus tu renforce en toi le sentiment d’insécurité. Plus tu consens à l’état d’incertitude, plus tu apprécieras de progresser dans la connaissance de se que tu ignores.
+
+Plus quelque chose met en danger ton identité, plus tu t’efforces de l’eviter
 ​
