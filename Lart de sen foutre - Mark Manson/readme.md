@@ -25,3 +25,30 @@ La maturité c’est ce qui se produit quand tu as appris à tenir seulement à 
 
 Je conçois la vie comme le consentement de la souffrance. Une fois que tu es en paix avec toutes les merdes que la vie t’envoye, tu deviens invincible.
 ​
+
+# Chapitre 2: Le bonheur est un problème
+Le bonheur n’est pas réductible à une équation qu’il s’agirait de résoudre. L’insatisfaction et le mal-être sont nécessaire à la construction d’un bonheur tangible.
+
+Tu es constitué pour être insatisfait de ce que tu as et satisfait uniquement de ce que tu n’as pas
+
+**Les problèmes ne feront jamais la grève, pour être heureux il faut les résoudre. Si tu les évites ou si tu as l’impression de ne pas en avoir, pauvre de toi : tu en sera malheureux à coup sûr. Idem si tu es incapable de les résoudre.**
+
+**Être heureux implique d’avoir un truc à résoudre. Tu es heureux quand tu identifies les problèmes que tu as envie d’avoir et de solutionner.**
+
+2 raisons pour ne pas être heureux
+  * tendance au déni 
+  *  mentalité de victime.
+  
+Si tu te sens en dessous de tout c’est parce que ton cerveau te souligne un problème que tu n’as pas affronté ni résolu . Les émotions négatives constitue un appel à l’action. Quand tu les éprouve, c’est que tu es sensé faire quelque chose.
+
+Les émotions ne faut pas tout dans la vie elles sont des suggestions neurobiologique, aucunement des commandements. Pour ces raisons, ne te fie pas aveuglément à ce qu’ils disent. Prends l’habitude de les remettre en question.
+
+Adaptation hédoniste
+  * L’obsession et le surinvestissement des émotions nous joue de sacrés tour pour la simple et bonne raison qu’il ne dure jamais.Se focaliser sur le bonheur abouti immanquablement à vouloir sans cesse autre chose et c’est sans fin.
+  
+Il faut se battre pour être heureux. Ce qui détermine ton succès « n’est pas qu’est ce qui te ferait plaisir » mais plutôt « quelle souffrance veux tu endurer? »
+
+Pour savoir qui tu es, tu dois savoir pour quoi tu es prêt à te battre. Ce n’est pas une quête de volonté ou de courage, c’est juste l’abc de la vie: tes combats conditionnent tes réussites.
+
+Si tu penses que tu as le droit de faire une pause à un moment donné tu n’as pas pigé le truc. Parce que la joie réside justement dans l’action même d’escalader la pente.
+​
