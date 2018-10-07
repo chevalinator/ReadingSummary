@@ -147,4 +147,33 @@ Les gens faisant le mal ont une bonne estime d’eux: les violeurs persuadés qu
 Plus tu recherches la certitude, plus tu renforce en toi le sentiment d’insécurité. Plus tu consens à l’état d’incertitude, plus tu apprécieras de progresser dans la connaissance de se que tu ignores.
 
 Plus quelque chose met en danger ton identité, plus tu t’efforces de l’eviter
+
+# Chapitre 7 Se planter pour bien démarrer
+
+Apprend à supporter la souffrance. Goûte la commme un mets de choix. Et puis agis malgré elle.
+
+**La vie c’est invariablement ne pas savoir et faire quand même quelque chose.**
+
+**Si vous vous butez à un problème, ne restez pas à y réfléchir; mettez vous à travailler dessus. Même si vous ne savez pas où vous allez, le seul fait de travailler dessus finira par faire surgir les bonnes idées.**
+
+L’action n’est pas seulement l’effet de la motivation; elle en est aussi la cause.
+Action -> inspiration-> motivation
+
+Les actions engendrant des nouvelles réactions émotionnelles et inspiration qui elle-même inspirent de nouvelles actions.
+
+
+# Chapitre 8 L’importance de dire non
+Ne faut-il pas se noyer dans l’excès pour en réaliser la vanité?
+
+Il faut tenir à quelque chose pour y accorder une valeur. Et accorder de la valeur à la chose en question, entraîne le rejet de ce qu’elle n’est pas. Ce rejet est la clé de notre identité dans la mesure où nous définissons par ce que nous choisissons de rejeter. Ne rien aux racheter c’est n’être personne.
+
+L’amour devient nocif dès lors que les sentiments qu’éprouvent les amants les détournent, comme par diversion, de leurs problèmes. Ils se servent l’un de l’autres comme une échappatoire. Dans l’amour bénéfique, les partenaires identifient leurs problèmes respectifs et cherchent à les solutionner en s’épaulant mutuellement.
+
+# Chapitre 9 ....et puis tu meurs
+Ernest Becker : Moi physique mortel et moi conceptuel. Le sens de notre vie est tout entier déterminé par cette aspiration innée à ne jamais mourir tout à fait. Nos projets d’immortalité.
+
+Antidote amer: mettre en doute la réalisation du moi conceptuel plutôt que de tendre à sa réalisation. Une fois que l’on fait ça nous pouvons faire le choix de nos valeurs sans être esclave de cette quête d’immortalité.
+
+Le paradoxe du choix: + d’options, - satisfait de notre choix
+​
 ​
