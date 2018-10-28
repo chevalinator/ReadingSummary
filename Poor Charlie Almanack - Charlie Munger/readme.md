@@ -1,6 +1,6 @@
 # Poor Charlie's Almanack Quotes
 
-![](/img/Charlie.jpg?raw=true)
+![zxc](/img/Charlie.jpg)
 
 The quotes below are what represents the essence of the book [Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger, Expanded Third Edition](https://www.amazon.ca/Poor-Charlies-Almanack-Expanded-Hardcover/dp/1578645018).
 
