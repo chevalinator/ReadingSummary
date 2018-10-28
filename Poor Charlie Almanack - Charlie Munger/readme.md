@@ -62,13 +62,22 @@ In the real world, it is critical to distinguish when you are "Max Planck," and 
 
 ###### Munger and Buffer are laser-focused on this issue: Over their long business careers they have learned, sometimes painfully, that few businesses survive over multiple gnenerations.
 
+<br><br>
+
 ###### Charlie seeks to calculate the intrinsic value of the whole business and, with allowance for potential dilution, etc., to determine an approximate value per share to compare to market prices. This latter comparison is the fundamental purpose of the whole process - comparing value (what you get) with price(waht you pay). On this subject he is famous for his viewpoint that "a great business at a fair price is superior to a fair business at a great price." Warren Buffett often credits Charlie with convincing him of the wisdom of this approach: "Charlie understood this early. I was a slow learner." Charlie's insight helped Buffett move from pure Benjamin Graham-style investing to focusing on great businesses such as The Washington Post, GEICO, Coca-Cola, Gillette, and others. 
+
+<br><br>
 
 "You are neither right or wrong because the crowd disagrees with you. You are right because your data and reasoning are right." 
 -Benjamin Graham 
 
+<br><br>
+
 __"Apply logic to help avoid fooling yourself. Charlie will not accept anything I say just because I say it, although most of the world will."
 -Warren Buffett__ 
 
+<br><br>
+
+
 __"Never fool yourself, and remember that you are the easiest person to fool." 
-- Richard P. Feynman __
+-Richard P. Feynman__
