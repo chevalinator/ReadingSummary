@@ -27,3 +27,14 @@ __T·H·E L·O·L·L·A·P·A·L·O·O·Z·A E·F·F·E·C·T
  
  "Perhaps the most valuable result of all education is the ability to make yourself do the thing you have to do, when it ought to be done, whether you like it or not. It is the first lesson that ought to be learned and however early a man's training begins, it is probably the last lesson that he learn thoroughly."  
                          -Thomas Henry Huxley Darwin's self-appointed advocate or "bulldog" 
+                         
+__Often, as in this case, Charlie generally focuses first on what to avoid - that is, on what NOT to do - before he considers the affirmative steps he will take in a given situation.__
+
+__"Personaly, I've gotten so that I now use a kind of two-track analysis. First, what are the factors that really govern the interests involved, rationally considered? And second, what are the subconscious influences where the brain at a subconscious level is automatically forming conclusions in various way - which, by and large, are useful - but which often malfunction? One approach is rationnality - the way you'd work out a bridge problem, by evaluating the real interest, the real probabilities, and so forth. And the other is to evaluate the psychological factors that cause subcouscious conclusions - many are which are wrong."__
+
+###### "We have three baskets for investing: yes, no, and too tough to understand." To identify potential "yes" candidates, Charlie looks for an easy to understand, dominant business franchise that can sustain itself and thrive in all market environments.
+
+__Identifying Your circle of Competence__ 
+In Talk Nine (page 400), Charlie tells the apocryphal story of Max Planck and the chauffeur who drove him to the public lecture he gave throughout Germany. On one occasion the chauffeur, who by this time knew the lecture by heart, suggested that he and Planck switch places. At the conclusion of the chauffeur's flawless recitation of the lecture, a physicist stood up and posed a very difficult question. The chauffeur, ready for the situation, replied, "I'm surprised that a citizen of an advanced city like Munich is asking so elementary a question, so I'm going to ask my chauffeur ro respond." 
+
+In the real world, it is critical to distinguish when you are "Max Planck," and when you are the "chauffeur." If you cannot respond legitimately to the *next* question, you lack true masrery and are likely outside your "Circle of Competence." 
