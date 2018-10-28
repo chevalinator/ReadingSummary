@@ -37,4 +37,13 @@ __"Personaly, I've gotten so that I now use a kind of two-track analysis. First,
 __Identifying Your circle of Competence__ 
 In Talk Nine (page 400), Charlie tells the apocryphal story of Max Planck and the chauffeur who drove him to the public lecture he gave throughout Germany. On one occasion the chauffeur, who by this time knew the lecture by heart, suggested that he and Planck switch places. At the conclusion of the chauffeur's flawless recitation of the lecture, a physicist stood up and posed a very difficult question. The chauffeur, ready for the situation, replied, "I'm surprised that a citizen of an advanced city like Munich is asking so elementary a question, so I'm going to ask my chauffeur ro respond." 
 
+
+
+
+
+
+
+
+
+
 In the real world, it is critical to distinguish when you are "Max Planck," and when you are the "chauffeur." If you cannot respond legitimately to the *next* question, you lack true masrery and are likely outside your "Circle of Competence." 
