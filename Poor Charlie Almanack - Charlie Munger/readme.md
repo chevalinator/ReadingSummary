@@ -23,4 +23,7 @@ Charlie likes the analogy of looking at one's ideas and approaches as "tools." "
 __Charlie seek to discover the universe hitched to each of his investment candidates by gaining a firm grasp on all, or at least most, of the relevant factors comprising both its internal and external environment. When properly collected and organized, his Multiple Mental Models (about one hundred in number, he estimates) provide a context or " latticework" that leads to remarkable insights as to the purpose and nature of life. More pertinent to our purpose here, his models supply the analytical structure that enables him to reduce the inherent chaos and confusion of a complex investment problem into a clarified set of fundamentals. *Especially important examples of these models include the redundancy/backup system model from engineering, the compound interest model from mathematics, the breakpoint/tipping-moment/autocatalysis models from physics and chemistry, the modern Darwinian synthesis model from biology and cognitive misjudgment models from psychology.*__ 
 
 __T·H·E L·O·L·L·A·P·A·L·O·O·Z·A E·F·F·E·C·T 
-"Of course, the term Munger has coined for factors which reinforce and greatly amplify each orher is 'Lollapalooza Effect."'__ 
+ "Of course, the term Munger has coined for factors which reinforce and greatly amplify each orher is 'Lollapalooza Effect.'"__ 
+ 
+ "Perhaps the most valuable result of all education is the ability to make yourself do the thing you have to do, when it ought to be done, whether you like it or not. It is the first lesson that ought to be learned and however early a man's training begins, it is probably the last lesson that he learn thoroughly." 
+  - Thomas Henry Huxley Darwin's self-appointed advocate or "bulldog" 
