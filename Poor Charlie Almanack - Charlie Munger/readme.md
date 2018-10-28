@@ -120,9 +120,9 @@ At Harvard Business School, the great quantitative thing that bonds the first-ye
 
 ##### You might ask why is that so important? Well, again, that's a rule of psychology. Just as you think better if you array knowledge on a bunch of models that are basically answers to the question, why, why, why, if you always tell people why, they'll understand it better, they'll consider it more important, and they'll be more likely to comply. Even if they don't understand your reason, they' ll be more likely to comply. 
 <br><br>
-
+##### The perceptual apparatus of man has shortcuts in it. The brain cannot have unlimited circuitry. So someone who knows how to take advantage of those shortcuts and cause the brain to miscalculate in cercain ways can cause you to see things that aren't there. 
 <br><br>
-
+The elementary part of psychology-the psychology of misjudgment, as I call it-is a terribly important thing to learn.
 <br><br>
 
 <br><br>
