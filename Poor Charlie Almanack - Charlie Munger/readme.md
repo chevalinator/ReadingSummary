@@ -25,4 +25,5 @@ __Charlie seek to discover the universe hitched to each of his investment candid
 __T·H·E L·O·L·L·A·P·A·L·O·O·Z·A E·F·F·E·C·T 
  "Of course, the term Munger has coined for factors which reinforce and greatly amplify each orher is 'Lollapalooza Effect.'"__ 
  
- "Perhaps the most valuable result of all education is the ability to make yourself do the thing you have to do, when it ought to be done, whether you like it or not. It is the first lesson that ought to be learned and however early a man's training begins, it is probably the last lesson that he learn thoroughly."  -Thomas Henry Huxley Darwin's self-appointed advocate or "bulldog" 
+ "Perhaps the most valuable result of all education is the ability to make yourself do the thing you have to do, when it ought to be done, whether you like it or not. It is the first lesson that ought to be learned and however early a man's training begins, it is probably the last lesson that he learn thoroughly."  
+                         -Thomas Henry Huxley Darwin's self-appointed advocate or "bulldog" 
