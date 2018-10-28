@@ -66,6 +66,8 @@ In the real world, it is critical to distinguish when you are "Max Planck," and 
 
 ###### Charlie seeks to calculate the intrinsic value of the whole business and, with allowance for potential dilution, etc., to determine an approximate value per share to compare to market prices. This latter comparison is the fundamental purpose of the whole process - comparing value (what you get) with price(waht you pay). On this subject he is famous for his viewpoint that "a great business at a fair price is superior to a fair business at a great price." Warren Buffett often credits Charlie with convincing him of the wisdom of this approach: "Charlie understood this early. I was a slow learner." Charlie's insight helped Buffett move from pure Benjamin Graham-style investing to focusing on great businesses such as The Washington Post, GEICO, Coca-Cola, Gillette, and others. 
 
+###### y the time he is finished with his analysis, he has reduced the candidate to its most salient elements and achieved a remarkable degree of confidence about whether or not to act. The evaluation finally, becomes not so much mathematical as philosophical. Ultimately "a feel" emerges, a function of both the analysis itself and Charlie's lifetime of accumulated experience and skill in recognizing patterns. 
+
 <br><br>
 
 "You are neither right or wrong because the crowd disagrees with you. You are right because your data and reasoning are right." 
