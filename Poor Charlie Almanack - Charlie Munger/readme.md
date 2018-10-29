@@ -99,13 +99,13 @@ __We try more to profit from always remembering the obvious than from grasping t
 
 <br><br>
 
-##### If you take the best text in economics by Mankiw, he says intelligent people make decisions based on opportunity costs-in other words, it's your alternatives that matter.
+###### If you take the best text in economics by Mankiw, he says intelligent people make decisions based on opportunity costs-in other words, it's your alternatives that matter.
 <br><br>
 
-##### While susceptibility varies, addiction can happen to any of us through a subtle process where the bonds of degradation are too light to be felt until they are too strong to be broken.
+###### While susceptibility varies, addiction can happen to any of us through a subtle process where the bonds of degradation are too light to be felt until they are too strong to be broken.
 <br><br>
 
-##### What I say is that McDonald's is one of our most admirable institutions. Then, as signs of shock come to surrounding faces, I explain that McDonald's, providing first jobs to millions of teenagers, many troubled, over the years, has successfully taught most of them the one lesson they most need: to show up reliably for responsible work. Then I usually go on to say that if the elite campuses were as successful as McDonald's in teaching sensibly, we would have a better world. 
+###### What I say is that McDonald's is one of our most admirable institutions. Then, as signs of shock come to surrounding faces, I explain that McDonald's, providing first jobs to millions of teenagers, many troubled, over the years, has successfully taught most of them the one lesson they most need: to show up reliably for responsible work. Then I usually go on to say that if the elite campuses were as successful as McDonald's in teaching sensibly, we would have a better world. 
 
 <br><br>
 
@@ -116,19 +116,19 @@ And the great useful model, after compound interest, is the elementary math of p
 At Harvard Business School, the great quantitative thing that bonds the first-year class together is what they call "decision tree theory." All they do is take high school algebra and apply it to real life problems. And the students love it. They're amazed to find that high school algebra works in life. 
 
 <br><br>
-##### His rule for all the Braun Company's commnunications was called the five W's - you had to tell who was going to do what, where, when, and why. And if you wrote a letter or directive in the Braun Company telling somebody to do something, and you didn't tell him why, you could get fired. In fact, you would get fired if you did it twice. 
+###### His rule for all the Braun Company's commnunications was called the five W's - you had to tell who was going to do what, where, when, and why. And if you wrote a letter or directive in the Braun Company telling somebody to do something, and you didn't tell him why, you could get fired. In fact, you would get fired if you did it twice. 
 
-##### You might ask why is that so important? Well, again, that's a rule of psychology. Just as you think better if you array knowledge on a bunch of models that are basically answers to the question, why, why, why, if you always tell people why, they'll understand it better, they'll consider it more important, and they'll be more likely to comply. Even if they don't understand your reason, they' ll be more likely to comply. 
+###### You might ask why is that so important? Well, again, that's a rule of psychology. Just as you think better if you array knowledge on a bunch of models that are basically answers to the question, why, why, why, if you always tell people why, they'll understand it better, they'll consider it more important, and they'll be more likely to comply. Even if they don't understand your reason, they' ll be more likely to comply. 
 <br><br>
-##### The perceptual apparatus of man has shortcuts in it. The brain cannot have unlimited circuitry. So someone who knows how to take advantage of those shortcuts and cause the brain to miscalculate in cercain ways can cause you to see things that aren't there. 
+###### The perceptual apparatus of man has shortcuts in it. The brain cannot have unlimited circuitry. So someone who knows how to take advantage of those shortcuts and cause the brain to miscalculate in cercain ways can cause you to see things that aren't there. 
 <br><br>
 The elementary part of psychology-the psychology of misjudgment, as I call it-is a terribly important thing to learn.
 <br><br>
-##### Change, as in the case of the Internet, can be the friend of society. But it is the absence of change that is often the friend of the investor. While the Internet will change many things, it will not likely change the brand of gum people chew. Charlie and I like stable businesses like chewing gum and try to leave life's more unpredictable things to someone else." -Buffett 
+###### Change, as in the case of the Internet, can be the friend of society. But it is the absence of change that is often the friend of the investor. While the Internet will change many things, it will not likely change the brand of gum people chew. Charlie and I like stable businesses like chewing gum and try to leave life's more unpredictable things to someone else." -Buffett 
 <br><br>
-##### And in a bureaucracy, you think the work is done when it goes out of your in-basket into somebody else's in-basket. But, of course, it isn't. It is  not done until AT&T delivers what it's supposed to deliver. So you get big, fat, dumb, unmotivated bureaucracies. 
+###### And in a bureaucracy, you think the work is done when it goes out of your in-basket into somebody else's in-basket. But, of course, it isn't. It is  not done until AT&T delivers what it's supposed to deliver. So you get big, fat, dumb, unmotivated bureaucracies. 
 
-##### They also tend to become somewhat corrupt. In other words, if I've got a department and you've got a department and we kind of share power running this thing, there's sort of an unwritten rule: "If you won't bother me, I won't bother you, and we're both happy" So you ger layers of management and associated costs that nobody needs. Then, while people are justifying all these layers, it takes forever to get anything done. They're too slow to make decisions, and nimbler people run circles around them. 
+###### They also tend to become somewhat corrupt. In other words, if I've got a department and you've got a department and we kind of share power running this thing, there's sort of an unwritten rule: "If you won't bother me, I won't bother you, and we're both happy" So you ger layers of management and associated costs that nobody needs. Then, while people are justifying all these layers, it takes forever to get anything done. They're too slow to make decisions, and nimbler people run circles around them. 
 
 <br><br>
 
@@ -139,14 +139,14 @@ If people tell you what you really don't want to hear - what's unpleasant- there
 So life is an everlasting battle between those two forces - to get those advantages of scale on one side and a tendency to get a lot like the U.S. Agriculture Departmemt on the other side- where they just sit around and so forth.
 <br><br>
 
-#### Here's a model that we've had trouble with. Maybe you'll be able co figure it out better. Many markets get down to two or three big competitors- or five or six. And in some of those markets, nobody makes any money to speak of. But in others, everybody does very well. 
+###### Here's a model that we've had trouble with. Maybe you'll be able co figure it out better. Many markets get down to two or three big competitors- or five or six. And in some of those markets, nobody makes any money to speak of. But in others, everybody does very well. 
 
 <br><br>
-##### The great lesson in microeconomics is to discriminate between when technology is going to help you and when it's going to kill you. And most peopk do not get this straight in their heads. But a fellow like Buffett does. 
+###### The great lesson in microeconomics is to discriminate between when technology is going to help you and when it's going to kill you. And most peopk do not get this straight in their heads. But a fellow like Buffett does. 
 
-##### For example, when we were in the textile business, which is a terrible commodity business, we were making low-end textiles- which are a real commodity product. And one day, the people came to Warren and said, "They've invented a new loom that we think will do twice as nwch work as our old ones." And Warren said, "Gee, I hope th is doesn't work-because if it does, l'm going to close the mill." And he meant it. What was he thinking? He was thinking, "It's a lousy business. we are earning substandard returns and keeping it open just to be nice to the elderly workers. But we're not going to put huge amounts of new capital into a lousy business." 
+###### For example, when we were in the textile business, which is a terrible commodity business, we were making low-end textiles- which are a real commodity product. And one day, the people came to Warren and said, "They've invented a new loom that we think will do twice as nwch work as our old ones." And Warren said, "Gee, I hope th is doesn't work-because if it does, l'm going to close the mill." And he meant it. What was he thinking? He was thinking, "It's a lousy business. we are earning substandard returns and keeping it open just to be nice to the elderly workers. But we're not going to put huge amounts of new capital into a lousy business." 
 
-##### And he knew that the huge productivity increases that would come from a better machine introduced into the production of a commodity product will all go to the benefit of the buyers of the textiles. Nothing was going to stick to our ribs as owners. 
+###### And he knew that the huge productivity increases that would come from a better machine introduced into the production of a commodity product will all go to the benefit of the buyers of the textiles. Nothing was going to stick to our ribs as owners. 
 <br><br>
 
 <br><br>
