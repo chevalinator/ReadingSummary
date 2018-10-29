@@ -124,6 +124,25 @@ At Harvard Business School, the great quantitative thing that bonds the first-ye
 <br><br>
 The elementary part of psychology-the psychology of misjudgment, as I call it-is a terribly important thing to learn.
 <br><br>
+##### Change, as in the case of the Internet, can be the friend of society. But it is the absence of change that is often the friend of the investor. While the Internet will change many things, it will not likely change the brand of gum people chew. Charlie and I like stable businesses like chewing gum and try to leave life's more unpredictable things to someone else." -Buffett 
+<br><br>
+##### And in a bureaucracy, you think the work is done when it goes out of your in-basket into somebody else's in-basket. But, of course, it isn't. It is  not done until AT&T delivers what it's supposed to deliver. So you get big, fat, dumb, unmotivated bureaucracies. 
+
+##### They also tend to become somewhat corrupt. In other words, if I've got a department and you've got a department and we kind of share power running this thing, there's sort of an unwritten rule: "If you won't bother me, I won't bother you, and we're both happy" So you ger layers of management and associated costs that nobody needs. Then, while people are justifying all these layers, it takes forever to get anything done. They're too slow to make decisions, and nimbler people run circles around them. 
+
+<br><br>
+
+If people tell you what you really don't want to hear - what's unpleasant- there's an almost automatic reaction of antipathy. You have to train yourself out of it. It isn't foredestined that you have to be this way. But you will tend to be this way if you don't think about it. 
+
+<br><br>
+
+So life is an everlasting battle between those two forces - to get those advantages of scale on one side and a tendency to get a lot like the U.S. Agriculture Departmemt on the other side- where they just sit around and so forth.
+<br><br>
+
+
+<br><br>
+
+<br><br>
 
 <br><br>
 
