@@ -139,9 +139,14 @@ If people tell you what you really don't want to hear - what's unpleasant- there
 So life is an everlasting battle between those two forces - to get those advantages of scale on one side and a tendency to get a lot like the U.S. Agriculture Departmemt on the other side- where they just sit around and so forth.
 <br><br>
 
+#### Here's a model that we've had trouble with. Maybe you'll be able co figure it out better. Many markets get down to two or three big competitors- or five or six. And in some of those markets, nobody makes any money to speak of. But in others, everybody does very well. 
 
 <br><br>
+##### The great lesson in microeconomics is to discriminate between when technology is going to help you and when it's going to kill you. And most peopk do not get this straight in their heads. But a fellow like Buffett does. 
 
+##### For example, when we were in the textile business, which is a terrible commodity business, we were making low-end textiles- which are a real commodity product. And one day, the people came to Warren and said, "They've invented a new loom that we think will do twice as nwch work as our old ones." And Warren said, "Gee, I hope th is doesn't work-because if it does, l'm going to close the mill." And he meant it. What was he thinking? He was thinking, "It's a lousy business. we are earning substandard returns and keeping it open just to be nice to the elderly workers. But we're not going to put huge amounts of new capital into a lousy business." 
+
+##### And he knew that the huge productivity increases that would come from a better machine introduced into the production of a commodity product will all go to the benefit of the buyers of the textiles. Nothing was going to stick to our ribs as owners. 
 <br><br>
 
 <br><br>
