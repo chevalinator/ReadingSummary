@@ -146,7 +146,19 @@ So life is an everlasting battle between those two forces - to get those advanta
 
 ###### For example, when we were in the textile business, which is a terrible commodity business, we were making low-end textiles- which are a real commodity product. And one day, the people came to Warren and said, "They've invented a new loom that we think will do twice as nwch work as our old ones." And Warren said, "Gee, I hope th is doesn't work-because if it does, l'm going to close the mill." And he meant it. What was he thinking? He was thinking, "It's a lousy business. we are earning substandard returns and keeping it open just to be nice to the elderly workers. But we're not going to put huge amounts of new capital into a lousy business." 
 
-###### And he knew that the huge productivity increases that would come from a better machine introduced into the production of a commodity product will all go to the benefit of the buyers of the textiles. Nothing was going to stick to our ribs as owners. 
+###### And he knew that the huge productivity increases that would come from a better machine introduced into the production of a commodity product will all go to the benefit of the buyers of the textiles. Nothing was going to stick to our ribs as owners. [...]. The cost reduction came through all right. But the benefit of the cost reductions didn't go to the guy who bought the equipment. It's such a simple idea, It's so basic. And yet it's so often forgotten.
+<br><br>
+So you have to figure out what your own aptitude's are. If you play games where other people have the aptitudes and you don't, you're going to lose. And that's as close as certain as any prediction that you can make. You have to figure out where you've got an edge. And you've got to play within your own circle of competence. 
+<br><br>
+ If you want to be the best tennis player in the world, vou may start out trying and soon find out that it's hopeless- that other people blow right by you. However, if you want to become the best plumbing contractor in Bemidji, that is probably doable by two-thirds of you. It takes a will. It takes the intelligence. But after a while, you'd gradually know all about the plumbing business in Bemidji and master the art. That is an attainable objective, given enough discipline.And people who could never win a chess tournament or stand in center court in a respectable tennis tournament can rise quite high in life by slowly developing a circle of competence- which results partly from what they were born with and partly from what they slowly develop through work. 
+<br><br>
+
+<br><br>
+
+<br><br>
+
+<br><br>
+
 <br><br>
 
 <br><br>
