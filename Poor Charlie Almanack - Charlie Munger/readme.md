@@ -237,51 +237,76 @@ As usual in human affairs, what determines the behavior are incentives for the d
 
 ###### the best part of it all was his concept of "Mr. Market." Instead of thinking the market was efficient, Graham treated it as a maniac-depressive who comes by every day. And some day "Mr. Market" says, "I'll sell you some of my interest for way less than you think it os worth." And other d;tys. he comes by and says, "I'll buy your interest ar a price that's way higher than you think it's worth." And you get the option of deciding whether you want to buy more, sell part of what you already have, or do nothing at all. 
 
+---
 <br><br>
 ##### Over the long term, it's hard for a stock to earn a much better return than the business which underlies it earns. If the business earns six percent on capital over forty vears and you hold it for that forty years, you're not going to make much different than a six percent return-even if you originally buy it at a huge discount. Conversely, if a business earns eighteen percent on capital over twenty or thirty years, even if you pay an expensive looking price, you'll end up with one hell of a result. 
 
+---
 <br><br>
 ##### However, averaged out, betting on the quality of a business is better than betting on the quality of management. In other words, if you have to choose one, bet on the business momentum, not the brillance of the manager.
+
+---
 <br><br>
 __What overall life advice do you have for youg people?__
 Spend each day trying to be a little wiser than you were when you woke up. Discharge your duties faithfully and well. Step-by-step you get ahead, but not necessarily in fast spurts. But you build discipline by preparing for fast spurts. Slug it out one inch at a time, day-by-day, and at the end of the day-if you live long enough-like most people, you will get out of life what you deserve.
 
 Above all, live with change and adapt to it.
 
+---
 <br><br>
 __As I said at the U.S.C Business School, what you need is a latticework of mental models in your head. And you hang your actual experience and your vicarious experience (that you get from reading and so forth) on this latticework of powerful models. And with that system, things gradually get to fit together in a way that enhances cognition.__
 
 __You don't have to know it all. Just take in the best big ideas from all these disciplines. And it's not that hard to do.__ 
+
+---
 <br><br>
 Similarly, I've told you to think forward and backward. Well, great declarers in bridge think, "How can I take the necessary winners?" But they think it through backwards, [ too. They also think, ] "What could possibly go wrong that could cause me to have too many losers? And both methods of thinking are useful. So [to win in] the game of life, get the needed models into your head and think it through forward and backward. What works in bridge will work in life. 
+
+---
 <br><br>
 And it's kind of fun to sit there and outthink people who are way smarter than you are because you've trained yourself to be more objective and multidisciplinary...
+
+---
 <br><br>
 __Of all the models that people ought to have in useful form and don't, perhaps the most important lie in the area of psychology....__ 
+
+---
 <br><br>
 Heavy ideology is one of the most extreme distorters of human cognition. Look at there Islamic fundamentalists who just gunned down a bunch of Greek tourists shouring, "God's work!" 
 
 Ideology does some strange things and distorts cognition terribly. If you get a lot of heavy ideology young-and then you start expression it-you are really locking your brain into a very unfortunate pattern. And you are going to distort your general cognition. 
 <br><br>
 You can have heavy ideology in favor of accuracy, diligence, and objectivity. But a heavy ideology that makes you absolutely sure that the minimum wage should be raised or that it shouldn't-and it's kind of a holy construct where you know you're right-makes you a bit nuts. 
+
+---
 <br><br>
 Well, I have far less in the way of qualifications than Pinker. In fact, I've never taken a single course in psychology. However, I've 
 come to exactly the same conclusion-that the psychology texts, while thev are wonderful in pat, are also significantly daft. 
 
 About three centuries before the birth of Christ, Demosthenes said, "What a man wishes, that also will he believe." Well, Demosrhencs 
 was right. 
+
+---
 <br><br>
 Psychology to me, as currently organized, is like electromagnetism after Faraday but before Maxwell-a lot has been discovered, but no one mind has put it all together in proper form. And it should be done because it wouldn't be that hard to do-and it's enormously important.
+
+---
 <br><br>
 "The live essential entrepreneurial skills for success are concentration, discrimination, organization, innovation, and conununication."
 -Michael Faraday
+
+---
 <br><br>
 How can smart people be so wrong? Well, the answer is that they don't do what I'm telling you to do-which is to take all the main models from psychology and use them as a checklist in reviewing outcomes in complex systems.
+
+---
 <br><br>
 __So you have to go back and put in your own head what I'd call the psychology of misjudgment in a form whereby you have all of the important models and you can use them.__ 
 
 __There's only one right way to do it: You have to get the main doctrines together and use them as a checklist. And, to repeat for emphasis, you have to pay special attention to combinational effects that create lollapalooza consequences.__
 
+
+---
 <br><br>
 
 __For example, take the issue of stealing. A very significant fraction of the people in the world will steal if (A) it's very easy to do and (B) there's practically no chance of being caught.__
@@ -292,6 +317,7 @@ __Again, that's obvious. It's very, very important to create human systems that 
 
 __Then, if somebody else does it, now you've got at least two psychological principles: incentive-caused bias plus social proof. Not only that, but you get Serpico effects: If enough people are profiting in a general social climate of doing wrong, then they' ll turn on you and become dangerous enem ies if you try and blow the whistle.__
 
+---
 <br><br>
 
 Take the workers' compensation system in California. Stress is real. And its misery can be real. So you want to compensate people for their stress in the workplace. It seems like a noble thing to do. 
@@ -299,29 +325,40 @@ Take the workers' compensation system in California. Stress is real. And its mis
 But the trouble with such a compensation practice is that it's practically impossible to delete huge cheating. And once you reward  cheating, you get crooked lawyers, crooked doctors, crooked unions, etc .. participating in referral schemes. You get a total miasma of disastrous behavior. And the behavior makes all the people doing it worse as they do it. So you were trying to help your civilization. But what you did was create enormous damage, net. 
 
 So it's much better to let some things go uncompensated-to let life be hard-than to create systems that are easy to cheat.
+
+---
 <br><br>
 Incidentally, that's Pavlovian mere association, roo. When people get bad news, they hate the messenger.
 
+
+---
 <br><br>
 
 ##### What makes investment hard, as I said at U.S. C., is that it's easy to see that some companies have better businesses than others. But the price of the stock goes up so high that, all of a sudden, the question of which sto ~ck is the best to buy gets quite difficult.
 
+
+---
 <br><br>
 
 #### As Buffett and I say over and over again, we don't leap seven-foor fences. Instead, we look for one-foot fences with big rewards on the other side. So we've succeeded by making the world easy for ourselves, not by solving hard problems. 
 
+---
 <br><br>
 
 #### And yes - a low-tech business can be plenty hard. Just try to open a restaurant and make it succeed.
 
+
+---
 <br><br>
 
 Part of what you must learn is how to handle mistakes and new facts that change the odds. Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand. 
 
+---
 <br><br>
 
 __You must have the confidence to override people with more credentials than you whose cognition is impaired by incenrivc-caused bias or some similar psychological force that is obviously present. But there are also cases where you have to recognize that you have no wisdom to add- and that your best course is to trust some expert. __
 
+---
 <br><br>
 
 <br><br>
