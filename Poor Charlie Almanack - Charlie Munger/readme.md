@@ -214,15 +214,19 @@ How can smart people be so wrong? Well, the answer is that they don't do what I'
 __So you have to go back and put in your own head what I'd call the psychology of misjudgment in a form whereby you have all of the important models and you can use them.__ 
 
 __There's only one right way to do it: You have to get the main doctrines together and use them as a checklist. And, to repeat for emphasis, you have to pay special attention to combinational effects that create lollapalooza consequences.__
+
 <br><br>
+
 __For example, take the issue of stealing. A very significant fraction of the people in the world will steal if (A) it's very easy to do and (B) there's practically no chance of being caught.__
 
-__And once they start stealling, the consistency principle-which is a big part of human psychology-will soon combine with operant conditioning to make stealing habitual. So if you run a business where it's easy to steal because of your methods, you're working a great moral injury on rhe people who work for you. __
+__And once they start stealling, the consistency principle-which is a big part of human psychology-will soon combine with operant conditioning to make stealing habitual. So if you run a business where it's easy to steal because of your methods, you're working a great moral injury on rhe people who work for you.__
 
-__Again, that's obvious. It's very, very important to create human systems that are hard to cheat. Otherwise, you're ruining your civilization because these big incentives will create incentive-caused bias and people will rationalize that bad behavior is OK. 
+__Again, that's obvious. It's very, very important to create human systems that are hard to cheat. Otherwise, you're ruining your civilization because these big incentives will create incentive-caused bias and people will rationalize that bad behavior is OK.__ 
 
 __Then, if somebody else does it, now you've got at least two psychological principles: incentive-caused bias plus social proof. Not only that, but you get Serpico effects: If enough people are profiting in a general social climate of doing wrong, then they' ll turn on you and become dangerous enem ies if you try and blow the whistle.__
+
 <br><br>
+
 Take the workers' compensation system in California. Stress is real. And its misery can be real. So you want to compensate people for their stress in the workplace. It seems like a noble thing to do. 
 
 But the trouble with such a compensation practice is that it's practically impossible to delete huge cheating. And once you reward  cheating, you get crooked lawyers, crooked doctors, crooked unions, etc .. participating in referral schemes. You get a total miasma of disastrous behavior. And the behavior makes all the people doing it worse as they do it. So you were trying to help your civilization. But what you did was create enormous damage, net. 
@@ -230,16 +234,25 @@ But the trouble with such a compensation practice is that it's practically impos
 So it's much better to let some things go uncompensated-to let life be hard-than to create systems that are easy to cheat.
 <br><br>
 Incidentally, that's Pavlovian mere association, roo. When people get bad news, they hate the messenger.
+
 <br><br>
+
 ##### What makes investment hard, as I said at U.S. C., is that it's easy to see that some companies have better businesses than others. But the price of the stock goes up so high that, all of a sudden, the question of which sto ~ck is the best to buy gets quite difficult.
+
 <br><br>
+
 #### As Buffett and I say over and over again, we don't leap seven-foor fences. Instead, we look for one-foot fences with big rewards on the other side. So we've succeeded by making the world easy for ourselves, not by solving hard problems. 
 
 <br><br>
+
 #### And yes - a low-tech business can be plenty hard. Just try to open a restaurant and make it succeed.
+
 <br><br>
+
 Part of what you must learn is how to handle mistakes and new facts that change the odds. Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand. 
+
 <br><br>
+
 __You must have the confidence to override people with more credentials than you whose cognition is impaired by incenrivc-caused bias or some similar psychological force that is obviously present. But there are also cases where you have to recognize that you have no wisdom to add- and that your best course is to trust some expert. __
 
 <br><br>
