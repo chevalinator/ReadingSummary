@@ -152,11 +152,51 @@ So you have to figure out what your own aptitude's are. If you play games where 
 <br><br>
  If you want to be the best tennis player in the world, vou may start out trying and soon find out that it's hopeless- that other people blow right by you. However, if you want to become the best plumbing contractor in Bemidji, that is probably doable by two-thirds of you. It takes a will. It takes the intelligence. But after a while, you'd gradually know all about the plumbing business in Bemidji and master the art. That is an attainable objective, given enough discipline.And people who could never win a chess tournament or stand in center court in a respectable tennis tournament can rise quite high in life by slowly developing a circle of competence- which results partly from what they were born with and partly from what they slowly develop through work. 
 <br><br>
+###### The model I like - to sort of simplify the notion of what goes on in a market for common stock - is the pari-mutuel system at the race track. If you stop to think about it, a pari-mutuel system is a market.  Everybody goes there and bets, and the odds change based on what's bet. That's what happen in the common stock market
+<br><br>
+###### How many insisghts  do you need? Well, I'd argue that you don't need many in a lifetime. If you look at Berkshire Hathaway and all of its accumulated billions, the top ten insights account for most of it.
+<br><br>
+###### So you can get very remarkable investment results if you think more like a winning pari-mutuel player. Just think of it as a hevy  odds against game full of bullshit and crazyness with an occasional mispriced something or other. And vou're probably nor going to be smart enough to find thousands in a lifetime. And when you get a few, you really load up. It's just that simple.
+<br><br>
+I think the reason whv we got into such idiocy in investment management is best illustrated by a story that I tell about the guy who sold fishing tackle. I asked him, "My God, they're purple and green. Do fish really take these lures?" And he said, "Mister, I don't sell to fish." 
+<br><br>
+As usual in human affairs, what determines the behavior are incentives for the decision maker, and "getting the incentives right" is a very, very important lesson. 
+<br><br>
+###### All right, we've now recognized that the market is efficient as a pari-mutuel system is efficient-with the favorite more likely than the long shot to do well in racing, but not necessarily given any betting advantage to those that bet on the favorite. 
+
+###### In the stock market. some railroad that beset by better competitors and rough union may be available at one-third of its book value. In contrast. IBM in its heyday might be selling at six times book value. So it's just like the pari-mutuel system. Any damn fool could plainly see that IBM had better business prospects than the railroad. But once you put the price into the formula, it wasn't so clear anymore what was going to work best for a buyer choosing between the stocks. So it's a lot like a pari-mutuel system. And, therefore, it gets very hard to beat. 
 
 <br><br>
 
-<br><br>
+###### the best part of it all was his concept of "Mr. Market." Instead of thinking the market was efficient, Graham treated it as a maniac-depressive who comes by every day. And some day "Mr. Market" says, "I'll sell you some of my interest for way less than you think it os worth." And other d;tys. he comes by and says, "I'll buy your interest ar a price that's way higher than you think it's worth." And you get the option of deciding whether you want to buy more, sell part of what you already have, or do nothing at all. 
 
+<br><br>
+##### Over the long term, it's hard for a stock to earn a much better return than the business which underlies it earns. If the business earns six percent on capital over forty vears and you hold it for that forty years, you're not going to make much different than a six percent return-even if you originally buy it at a huge discount. Conversely, if a business earns eighteen percent on capital over twenty or thirty years, even if you pay an expensive looking price, you'll end up with one hell of a result. 
+
+<br><br>
+##### However, averaged out, betting on the quality of a business is better than betting on the quality of management. In other words, if you have to choose one, bet on the business momentum, not the brillance of the manager.
+<br><br>
+__What overall life advice do you have for youg people?__
+Spend each day trying to be a little wiser than you were when you woke up. Discharge your duties faithfully and well. Step-by-step you get ahead, but not necessarily in fast spurts. But you build discipline by preparing for fast spurts. Slug it out one inch at a time, day-by-day, and at the end of the day-if you live long enough-like most people, you will get out of life what you deserve.
+
+Above all, live with change and adapt to it.
+
+<br><br>
+__As I said at the U.S.C Business School, what you need is a latticework of mental models in your head. And you hang your actual experience and your vicarious experience (that you get from reading and so forth) on this latticework of powerful models. And with that system, things gradually get to fit together in a way that enhances cognition.__
+
+__You don't have to know it all. Just take in the best big ideas from all these disciplines. And it's not that hard to do.__ 
+<br><br>
+Similarly, I've told you to think forward and backward. \Veil, great declarers in 
+
+bridge think, "How can I take the necessary winners?" Bur they think it through 
+
+backwards, [too. They also think,] "What could possibly go wrong that could cause 
+
+me to have roo many losetrs? And both methods of thinking arc useful. So [to win 
+
+in] the game of life, get thte needed models into your head and think it through 
+
+forward and backward. \\"hat works in bridge will work in life. 
 <br><br>
 
 <br><br>
