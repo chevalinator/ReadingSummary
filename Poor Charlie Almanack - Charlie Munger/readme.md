@@ -11,20 +11,20 @@ The emphasis represents the importance of the quote to me.
 I think when you're trying to teach great concepts that work, it helps to tie them into the lives an personnalities of the people who developed them. I think you learn economics better if you make Adam Smith your friend. That sounds funny, making friends among 'the eminent dead,' but if you go through life making friends with the eminent dead who had the right ideas, I think it will work better for you in life and work better in education. It's way better than just giving the basic concepts.
 
 ---
-<br><br>
+<br>
 
 *Just as multiple factors shape almost every system, multiple models from a variety of disciplines, applied with fluency, are needed to understand a system.*
-
+<br>
 ---
-<br><br>
+<br>
 
 Charlie has developed an unusual additional attribute-a willingness, even an eagerness, to identify and acknowledge his own mistakes and learn from them. As he once said, "If Bershire has made a modest progress, a good deal of it is because Warren and I are very good at destroying our own best-loved ideas. Any year that you don't destroy one of your best-loved ideas is probably a wasted year." 
-
+<br>
 ---
-<br><br>
+<br>
 
 Charlie likes the analogy of looking at one's ideas and approaches as "tools." "When a better tool (idea or approach) comes along, what couJd be better than to swap it for your old, less useful tool? Warren and I routinely do this, but most people, as Galbraith says, forever cling to their old, less useful tools."
-
+<br>
 ---
 <br><br>
 
