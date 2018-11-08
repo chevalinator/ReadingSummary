@@ -1,5 +1,5 @@
 # How to Measure Anything Workbook: Finding the Value of Intangibles in Business
-![](https://github.com/mathieuchevalier/ReadingSummary/blob/master/Poor%20Charlie%20Almanack%20-%20Charlie%20Munger/img/Charlie.jpg)
+![](https://github.com/mathieuchevalier/ReadingSummary/blob/master/How%20to%20Measure%20Anything%20-Douglas%20Hubbard/img/douglas%20Hubbard.jpg)
 
 The quotes below are taken from [How to Measure Anything (Second Edition)](https://www.amazon.com/Measure-Anything-Second-Douglas-Hubbard/dp/B00A2N3KQ6). 
 
