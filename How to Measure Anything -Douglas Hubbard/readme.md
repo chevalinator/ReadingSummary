@@ -1,4 +1,10 @@
+# How to Measure Anything Workbook: Finding the Value of Intangibles in Business
+![](https://github.com/mathieuchevalier/ReadingSummary/blob/master/Poor%20Charlie%20Almanack%20-%20Charlie%20Munger/img/Charlie.jpg)
 
+The quotes below are taken from [How to Measure Anything (Second Edition)](https://www.amazon.com/Measure-Anything-Second-Douglas-Hubbard/dp/B00A2N3KQ6). 
+
+
+# Quotes
 
 
 I wrote this book to correct a costly myth that permeates many organizations today: that certain things can’t be measured.
