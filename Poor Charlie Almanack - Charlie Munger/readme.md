@@ -356,21 +356,286 @@ Part of what you must learn is how to handle mistakes and new facts that change 
 ---
 <br><br>
 
-__You must have the confidence to override people with more credentials than you whose cognition is impaired by incenrivc-caused bias or some similar psychological force that is obviously present. But there are also cases where you have to recognize that you have no wisdom to add- and that your best course is to trust some expert. __
+__You must have the confidence to override people with more credentials than you whose cognition is impaired by incentive-caused bias or some similar psychological force that is obviously present. But there are also cases where you have to recognize that you have no wisdom to add and that your best course is to trust some expert.__
+
+---
+<br><br>
+__I try to get rid of people who all confidently answer questions about which they don't have any real knowledge. To me, they're like the bee dancing it's incoherent dance. They're just screwing up the hive.__ 
+---
+<br><br>
+__On using psychological techniques on people__  
+And if you see he wants to do something really srupid, it probably won't work to tell him, "What you're doing is bad. I have better morals than you." 
+
+That offend's him. You're young. He's old. Therefore, instead of being persuaded, he's more likely to react with, "Who in the hell are you to establish the moral code of the whole world?" 
+
+But, instead, you can say to him. "You can't do that without three other people beneath you knowing about it. Therefore, you're making yourself subject to blackmail. You're risking your reputation. You're risking your family, your money, etc." 
+
+That is likely to work. And you're telling him something that's true. Do you want to spend a lot of time working for people where you have to use methods like that to get them to behave well? I think the answer is no. But if you're hooked with it, appealing to his interest is likely to work better as a matter of human persuasion than appealing to anything else. That. again. is a powerful psychological principle with deep biological roots.
+---
+<br><br>
+__On notions helpful in solving problems__  
+The first helpful notion is that it is usually best to simplify problems by deciding big "no-brainer" questions first. 
+
+The second helpful notion mimics Galileo's conclusion that scientific reality is often revealed only by math as if math was the language of God. Galileo's attitude also works well in messy, practical life. Without numerical fluency, in the part of life most of us inhabit, you are like a one-legged man in an ass-kicking contest. 
+
+The third helpful notion is that it is not enough to think problems through forward. You must also think in reverse, much like the rustic who wanted to know where he was going to die so that he'd never go there. Indeed, many problems can't be solved forward. And that is why the great algebraist Carl Jacobi so often said, "Invert, always invert." And why the Pythagoreans thought in reverse to prove that the square root of two was an irrational number.
+
+The fourth helpful notion is that the best and most practical wisdom is elementary academic wisdom. But there is one extremely important qualification: You must think in a multidisciplinary manner. You must routinely use all those easy-to-learn concepts from the freshman course in every basic subject. Where elementary ideas will serve, your problem solving must not be limited, as academia and many business bureaucracies are limited, by extreme balkanization into disciplines and subdisciplines, with strong taboos against any venture outside assigned territory.[...]
+
+If, in your thinking, you rely entirely on others, often through purchase of professional advice, whenever outside a small territory of your own, you will suffer much calamity. And it is not just difficulties in complex coordination that will do you in. You will also suffer from the reality evoked by the Shavian character who said, "In the last analysis, every profession is a conspiracy against the laity." Indeed, a Shavian character, for once, understated the horrors of something Shaw didn't like. It is not usually the conscious malfeasance of your narrow professional adviser that does you in. Instead. your troubles, come from his subconscious bias. His cognition will often be impaired. for your purposes. by financial incentives different from yours. And he will also suffer from the psychological defect caught by thta proverb: "To a man with a hammer, every problern looks like a nail." 
+
+The fifth helpful notion is that really big effects, lollapalooza effects, will often come only from large combinations; of factors. For instance, tuberculosis was tamed, at least for a long time, only by routine, combined use in each case of three different drugs. And other lollapalooza effects. like the flight of an airplane, follow a similar pattern. 
+---
+<br><br>
+__Ultra-Simple, General Problem-Solving Notions__
+
+__• Decide the big "no-brainer" questions first.__ 
+
+__• Apply numerical fluency.__ 
+
+__• Invert (think the problem through in reverse).__ 
+
+__• Apply elementary multidisciplinary wisdom, never relying entirely upon others.__ 
+
+__• Watch for combinations of factors-the Lollapalooza effect.__
+---
+<br><br>
+__The Two-Track Analysis__
+
+__• What are the factors that really govern the interests involved, rationally considered? (for example, macro and micro-level economic factors).__
+
+__• What are the subconscious influences, where the brain at a subconscious level is automatically forming conclusions? (influences from instincts, emotions, cravings, and so on).__
+---
+<br><br\
+Benjamin Franklin's observation in Poor Rirhord's Jl/mo11ori>, "If you would persuade, appeal to interest and not to reason." 
+---
+<br><br>
+I absorbed what I call the fundamental full attribution ethos of hard science. And that was enormously useful to me. Let me explain that ethos. 
+
+Under  this ethos, you've got to know all the big ideas in all the disciplines more fundamental than your own. You can never make any explanation that can be made in a more fundamental way in any other way than the most fundamental way. And you always take with full attribution to the most fundamental ideas that you are required to use. When you're using physics, you say you're using physics. When you're using biology, you say you're using biology. And so on and so on. I could early see that that ethos would act as a fine organizing system for my thought. And I strongly suspected that it would work really well in the soft sciences as well as the hard sciences, so I just grabbed it and used it all through my life in soft science as wdell as hard science. That was a very lucky idea for me. 
 
 ---
 <br><br>
 
+Two hundred years ago, aided by the growth of technology and the growth of other developments in the civilitation, the real output per capita of the civilized world started going up at about two percent per annum, compounded. And before that, for the previous thousands of years, it had gone up at a rate that hovered just a hair's-breadth above zero.
+
+
+---
+<br><br>
+_And there I found laid our as principles of economics: Opportunity cost is a superpower, to be used by all people who have any hope of 
+getting the right answer. Also, incentives are superpowers.And lastly, the tragedy of the commons model[...]._
+
+
+---
+<br><br>
+What's Wrong with Economics? 
+
+1) Fatal Unconnectedness, Leading to man-with-a-hammcr Syndrome, Often Causing Overweighing What Can Be Counted
+
+
+---
+<br><br>
+__Thenature of this failure is that it creates what I always call man-with-a-hammer syndrome. And that's taken from the folk saying: To the man with only a hammer,every problem looks pretty much like a nail. And that works marvelously to gum up all professions and all departments of academia and, indeed, most practical life.The only antidote for being an absolute klutz due to the presence of a man-with-a-hammer syndrome is to have a full kit of tools. You don't have just a hammer.You've got all the tools. And you've got to have one more trick. You've got to use those tools checklist-style because you'l l miss a lot if you just hope that the right tool is going to pop up unaided whenever you need it. But if you've got a full list of tools and go through them in your mind, checklist-style, you will find a lot of answers that you won't find any other way.__
+
+A special version of this man-with-a-hammer syndrome is terrible, not only in economics but practically everywhere else, including business. lt's really terrible in business. You've got a complex system, and it spews out a lot of wonderful numbers that enable you to measure some factors. But there are other factors that are terribly
+important, [yet] there's no precise numbering you can put to these factors. You know they're important, but you don't have the numbers. Well, practically everybody (1) overweighs the stuff that can be numbered because it yields to the statistical techniques they're taught in academia and (2) doesn't mix in the hard-to-measure stuff that may be more important. That is a mistake I've tried all my life to avoid, and I have no regrets for having done that. 
+
+---
+<br><br>
+I want economics to pick up the basic ethos of hard science, the full attribution habit, but not that craving for an unattainable precision that comes from physics envy. The sort of precise, reliable formula that includes Boltzmann's constant is not going co happen, by and large, in economics. Economics involves too complex a system. And the craving for that physic-style precision does little but get you in terrible trouble,
+
+---
+<br><br>
+__On explaining how to explains a business success__
+
+Wel, how did I solve those problems? Obviously, I was using a simple search engine in my mind to go through checklist-style, and I was using some rough algorithms that work pretty well in a great many complex systems, and those algorithms run something like this: Extreme success is likely to be caused by some combination of the following factors: 
+
+A) Extreme maximization or minimization of one or two variables. Example, Costco or our furniture and appliance store. 
+
+B) Adding success factors so that a bigger combination drives success, often in nonlinear fashion, as one is reminded by the concept of breakpoint and the concept of critical mass in physics. Often results are not linear. You get a little bit more mass, and you get a lollapalooza result. And, of course, l've been searching for lollapalooza results all my life, so I'm very interested in models that explain their occurrence. 
+
+C) An extreme of good performance over many factors. Example, Toyota or Les Schwab. 
+
+D) Catching and riding some sort of big wave. Example, Oracle.
+---
+<br><br>
+Why did Max Planck, one of the smartest people who ever lived, give up economics? The answer is, he said, "It's too hard. The best solution you can get is messy and uncertain." 
+
+---
+<br><br>
+all human systems are gamed, for reasons rooted deeply in psychology, and great skill is displayed in the gaming because game theory has so much potential. That's what's wrong with the workers' comp system in California. Gaming has been raised to an art form. In the course of gaming the system, people learn to be crooked. Is this good for civilization? Is it good for economic perfonnance? Hell, no. The people who design easily gameable systems belong in the lowest circle of hell. 
+---
+<br><br>
+__About People designing easily gameable system__
+They just don't think about what terrible things they're doing to the civilization because they don't take into account the second-order effects and the third-order effects in lying and cheating.
+
+---
+<br><br>
+__On Tolerating unfrainess for the greater good__
+It is not always recognized that, to function best, morality should sometimes appear unfair, like most worldly outcomes. The craving for perfect fairness causes a lot of terrible problems in system function. Some systems should be made deliberately unfair to individuals because they'll be fairer on average for all of us. Thus, there can be virtue in apparent non-fairness. I frequently cite the example of having your career over, in the Navy. if your ship goes aground, even if it wasn't your fault. I says the lack of justice for the one guy that wasn't at fault is way more than made up by a greater justice for everybody when every captain of a ship always sweats blood to make sure the ship doesn't go aground.
+
+
+---
+<br><br>
+My inspiration again is Keynes: Better roughly right than precisely wrong. 
+---
+<br><br>
+__"No matter how smart you are, there are smart people out there who can fool you if they really want to. So, be sure you can trust the smart people you work with."__ 
+
+---
+<br><br>
+__Talking to newly graduated lawyer__
+Without lifetime learning, you people are not going to do very well. You are not going to get very far in life based on what you already know. You're going to advance in life by what you learn after you leave here. 
+---
+<br><br>
+__"A mean who doesn't know what happened before he is born goes through life like a child"
+-Marcus Tulius Cicero__
+---
+<br><br>
+__On Inversion__
+The way complex adaptive systems work, and the way mental constructs work, problems frequently get easier to solve through "inversion. " If you turn problems around into reverse, you often think better. 
+
+For instance, if you want to help India, the question you should consider asking is not: "How can I help India?" instead, you should ask: "How can I hurt India?" You find what will do the worst damage, and then try to avoid it. Perhaps the two approaches seem logically the same thing. But those who have mastered algebra know that inversion will often and easily solve problems chat otherwise resist solution. And in life, just as in algebra, inversion will help you solve problems that you can't otherwise handle. 
+---
+<br><br>
+__On Extreme Ideology__
+Another thing to avoid is extremely intense ideology because it cabbages up one's mind. You see a lot of it in the worst of the TV preachers. They have different, intense, inconsistent ideas about technical theology, and a lot of them have minds reduced to cabbage. (Audience laughs) And that can happen with political ideology. And if you're young, it's particularly easy to drift into intense and foolish political ideology and never get out. 
+
+---
+<br><br>
+__On how what's needed to hold an opinion__
+I have what I call an "iron prescription" that helps me keep sane when I drift toward preferring one intense ideology over another. I feel that I'm not entitled to have an opinion unless I can ttate the arguments against my position better than the people who are in opposition. 1 think that I am qualified to speak only when I've reached that state. 
+
+
+
+---
+<br><br>
+__About self-pity__
+Every time vou find you're drifting into self-pity, whatever the cause, even if your child is dying of cancer, self-pity is not going help. Just give yourself one of my friend's cards. Self-pity is always counterproductive. It's the wrong way to think. And when you avoid it, you get a great advantage over everybody else, or almost everybody else, because self-pity is a standard response. And you can train yourself out of it. 
+---
+<br><br>
+__Self-serving bias__
+Another thing that often causes folly and ruin is the "self-serving bias," often subconscious, to which we' re all subject. You think that "the true little me" is entitled to do what it wants to do. For instance, why shouldn't the true little me get what it wants by overspending its income?
+
+Of course you also want to get self-serv ing bias out of your mental routines. Thinking that what's good for you is good for the wider civilization, and rationalizing foolish or evil conduct, based on your subconscious tendency to serve yourself, is a terrible way to think. And you want to drive that out of yourself because you want to be wise not foolish, and good not evil. You also have to allow, in your own cognition and conduct, for the self-serving bias of everybody else, because most people are not going to be very successful at removing such bias, the human condition being what it is. If you don't allow for self-serving bias in the conduct of others, you are, again, a fool.
+---
+<br><br>
+__On finding counterhypothesis__
+Engaging in routines that allow you to maintain objectivity are, of course, very helpful to cognition. We all remember that Darwin paid special attention to disconfirming evidence, particularly when it disconfirmed something he believed and loved. Routines like that are required if a life is to maximize correct thinking. And one also needs check list routines. They prevent a lot of errors, and not just for pilots. You should nor only possess wide-ranging elementary wisdom but also go through mental checklist routines in using it. There is no other procedure that will work as well. 
+---
+<br><br>
+__Non-equality__
+Another idea that T found important is that maximizing non-egality will often work wonders. 
+[...]
+I think the game of competitive life often requires maximizing the experience of the people who have the most aptitude and the most determination as learning machines. And if you want the very highest reaches of human acheivement, that's where you have to go.
+---
+<br><br>
+__Intense interest__
+Another thing that I have found is that intense interest in any subject is indispensable if you're really going to excel in it. I could force myself to be fairly good in a lot of things, but I couldn't excel in anything in which I didn't have an intense interest. So to some extent you're going to have to do as I did. If at all feasible, you want to maneuver yourself into doing something in which you have an intense nterest. 
+---
+<br><br>
+__On how to deal with bad things in life__
+Another thing to cope with is that life is very likely to provide terrible blows, unfair blows. Some people recover. and others don't. And there I think the attitute of Epictetus helps guide one to the right reaction. He thought that mischance in life, however bad, reated an opporwnity to behave well. He believed every mischance provided an opporwnity to learn something useful. And one's duty was not to become immersed in self-pity, but to utilize each terrible blow in a comtructible fashion. 
+
+---
+<br><br>
+__"People are not disturbed by things, but by the view they take of them."
+-Epictetus__
+---
+<br><br>
+__On an alternative to bureaucraty__
+The last idea that I want to give to you, as you go out into a profession that fequently puts a lot of procedure and some mumbo jumbo into what it does, is that complex bureaucratic procedure does not represent the highest form of civilization can reach. One higher form is a seamless, non-bureaucratic web of deserved trust. Not much fancy procedure, just totally reliable people correctly trusting one another.
+
+---
+<br><br>
+__On contrast Bias__
+A magician demonstrates this sort of contrast-based error in your nervous system when he remove your wristwatch without your feeling it. As he does this, he applies pressure of touch on your wrist that you would sense if it was the only pressure of touch you were experiencing. But he has concurrently applied other intense pressure of touch on your body, but not on your wrist, "swamping" the wrist pressure by creating a high-contrast touch pressure elsewhere. This high contrast takes the wrist pressure below perception.
+---
+<br><br>
+__On Contrast Bias__
+__Some psychology professors like to demonstrate the inadequacy of contrast-based perception by having students put one hand in a bucket of hot water and one hand in a bucket of cold water. They are then suddenly asked to remove both hands and place them in a single bucket of room-temperature water. Now, with both hands in thesame water, one hand feels as if it has just been put in cold water and the other hand feels as if it has just been placed in hot water. When one thus sees perception so easily fooled by mere contrast, where a simple temperature gauge would make no error, and realizes that cognition mimics perception in being misled by mere contrast, he is well on the way toward understanding, not only how magicians fool one, but also how life will fool one.__
+---
+<br><br>
+Man's- often wrong but generally useful psychological tendencies are quite numerous and quite different. The natural consequence of this profusion of tendencies is the grand general principle of social psychology: cognition is ordinarily situation-dependent so that different situations often cause different conclusions, even when the same person is thinking in the same general subject area. 
+---
+<br><br>
+__Munger's list of psychological bias__
+-One: Reward and Punishment Superresponse tendency 
+
+-Two: Liking/Loving Tendency 
+
+-Three: Disliking/Hating Tendency 
+
+-Four: Doubt-Avoidance Tendency 
+
+-Five: Inconsistency-Avoidance Tendency 
+
+-Six: Curiosity Tendency 
+
+-Seven: Kantian Fairness Tendency
+
+-Eight: Envy/Jealousy Tendendy
+
+-Nine: Reciprocation Tendency
+
+-Ten: Influence-from-Mere-Association Tendency
+
+-Eleven: Simple pain-avoiding physiological denial
+
+-Twelve: Excessive Self-Regard Tendency
+
+-Thirteen: Overoptimish Tendency
+
+-Fourteen Deprival-Superreaction Tendency
+
+-Fifteen: Social-Proof Tendency
+
+-Sixteen: Contrast-Misreaction Tendency
+
+-Seventeen: Stress-Influence Tendency
+
+-Eighteen: Availability-Misweighting Tendency
+
+-Nineteen: Use-It-or-Lose-It Tendency
+
+-Twenty: Drug-Misinfluence Tendency
+
+-Twenty-One: Senescence-Misinfluence Tendency
+
+-Twenty-Two: Authority-Misinfluence Tendency
+
+-Twenty-Three: Twaddle Tendency
+
+-Twenty-Four: Reason-Respecting Tendency
+
+-Twenty-Five: Lollapalooza Tendency - 
+---
+<br><br>
+__Reward and Punishment Superresponse tendency__
+Early in the history of Xerox, Joe Wilson, who was then in the government, had a similar experience. He had to go back to Xerox because he couldn't understand why its new machine was selling so poorly in relation to its older and inferior machine. When he got back to Xerox, he found out that the commission arrangement with the salesmen gave a large and perverse incentive to push the inferior machine on customers, who deserved a better result.
+
+We should also heed the general lesson implicit in the injuction of Ben Franklin in Poor Richard's Almanack: "If you would persuade, appeal to interest and not to reason." This maxim is a wise guide to a great and simple precaution in life: Never, ever, think about something else when you should be thinking about the power of incentives.
+
+We should also remember how a foolish and willful ignorance of the superpower of rewards caused Soviet communists to get their final result as described by one employee: "They pretend to pay us and we pretend to work." __Perhaps the most important rule in management is, "Get the incentives right."__
+
+He demonstrated again and again a great recurring, generalized behavioral algorithm in nature: '"Repeat behavior that works." He also demonstrated that prompt rewards worked much better than delayed reward's in changing and maintaining behavior. And, once his rats and pigeons had conditioned reflexes, caused by food rewards, he found what withdrawal pattern of rewards kept the reflexive behavior longest in place: random distribution.
+
+Later, Skinner lost most of his personal reputation (a) by overclaiming for incentive superpower to the point of thinking he could create a human utopia with it and (b) by displaying hardly any recognition of the power of the rest of psychology. He thus behaved like one of Jacob Viner's truffle hounds as he tried to explain everything with incentive effects.
+
+__Man-with-a-hammer tendency does not exempt smart people like Blanchard and Skinner. And it won't exempt you if you don't watch out.__ 
+
+__One of the most important consequences of incentive superpower is what I call "incentive-caused bias." A man has an acculturated nature making him a pretty decent fellow, and yet, driven both consciously and subconsciously by incentives, he drifts into immoral behavior in order to get what he wants, a result he facilitates by rationalizing his bad behavior, like the salesmen at Xerox who harmed customers in order to maximize their sales comissions.__ 
+
+__Widespread incentive-caused bias requires that one should often distrust, or take with a grain of salt, the advice of one's professional advisor, even if he is an engineer. The general antidotes here are: (1) especially fear professional advice when it is especially good for the advisor; (2) learn and use the basic elements of your advisor's trade as you deal with your advisor; and (3) double check, disbelieve, or replace much of what you're told, to the degree that seems appropriate after objective thought.__
 <br><br>
 
+One implication is that people who create things like cash registers,which make dishonest behavior hard to accomplish, are some of the effective saints of our civilization because, as Skinner so well knew, bad behavior is intensely habit-forming when it is rewarded. And so the cash register was a great moral instrument when it was created.
+
+As the name implies, the economists have typically known that, just as grain is always lost to rats, employers always lose to employees who improperly think of themselves first. Employer-installed antidotes include tough internal audit systems and severe public punishment for identified miscreants, as well as misbehavior-preventing routines and such machines as cash registers. From the employee's point of view, incentive-caused bias quite naturally cause opposing abuse from the employer: the sweatshop, the unsafe work place, etc. And thse bad results for employees have antidotes not only in pressure fomr unions but also in government action, such as wage and hour laws[...].
+
+---
 <br><br>
 
+---
 <br><br>
 
-<br><br>
-
-<br><br>
-
-<br><br>
-
-<br><br>
