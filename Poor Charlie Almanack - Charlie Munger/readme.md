@@ -806,42 +806,52 @@ A buyer from out of the city, perhaps needing to shift his family there, ,visits
 <br><br>
 __Contrast-Misreaction Tendency small steps__<br>
 When a man's steps are consecutively taken toward disaster, with each step being very small, the brain's contrast-misreaction tendency will often let the man go too far toward disaster to be able to avoid it. This happens because each step presents so small a contrast from his present position. 
+
 ---
 <br><br>
 __Stress-Influence Tendency__<br>
 In a phenomenon less well recognized but still widely known, light stress can slightly improve performance-say, in examinations-whereas heavy stress causes dysfunction. 
+
 ---
 <br><br>
 __Effect of stress on Pavlov conditionning__<br>
 Their habits had been transformed, by a combination of his "Pavlovian conditioning" plus standard reward responses, into distinct and different patterns. As the waters of the flood came up and reached,  many dogs reached a point where they had almost no airspace between their noses and the tops of their cages. This subjected them to maximum stress. Immediately thereafter, Pavlov noticed that many of the dogs were no longer behaving as they had. The dog that formerly had liked his trainer now disliked him, for example. This result reminds one of modern cognition reversals in which a person's love of his parents suddenly becomes hate, as  new love has been shifted suddenly to a cult. The unanticipated,  extreme changes in Pavlog dogs would have driven any good experimental scientist into a near-frenzy of curiosity. That was indeed Pavlov's reaction. But not many scientists would have done what Pavlov next did. And that was to spend the rest of his long life giving stress-induced nervous breakdowm to dogs after which he would try to reverse the breakdown,  all the while keeping careful experimental records. He found (1) that he could classify dogs so as to predict how easily a particular dog would breakdown; (2) that the dogs hardest to break down where also the hardest to return to their pre-breakdown state; (3) that any dog could be broken down; and (4) that he couldn't reverse a breakdown except by reimposing stress. 
+
 ---
 <br><br>
 __Availability-Misweighing Tendency__<br>
 This mental tendency echoes the words of the song: "When I'm not near the girl I love, I love the girl I'm near."
+
 ---
 <br><br>
 __Availability-Misweighing Tendency__<br>
 The great algorithm to remember in dealing with this tendency is simple: An idea or a fact is not worth more merely because it is easily available to you.
+
 ---
 <br><br>
 __Availability-Misweighing Tendency Antidote__<br>
 The main antidote to miscues from Availability-Misweighing tendency often involve procedures, including use of checklists, which are almost always helpful. 
+
 ---
 <br><br>
 __Use-It-or-Lose-It Tendency__<br>
 Throughout his life, a wise man engages in  practice of all his useful, rarely used skills, many of them outside his discipline, as a sort of duty to his better self. If he reduces the number of skills he practices and, therefore, the number of skills he retains, he will naturally drift into error from man-with-a-hammer tendency. His learning capacity will also shrink as he creates gaps in the latticework of theory he needs as a framework for understanding new experience. It is also essential for a thinking man to assemble his skills into a checklist that he routinely uses. Any other mode of operation will cause him to miss much that is important.
+
 ---
 <br><br>
 __Authority-Misinfluence Tendency__<br>
 Living in dominance hierarchies as he does, like all his ancestors before him, man was born mostly to follow leaders, with only a few people doing the leading. And so, human society is formally organized into dominance hierarchies, with their culture augmenting the natual follow-the-leader tendency of man. 
+
 ---
 <br><br>
 __Twaddle Tendency__<br>
 A rightly famous Caltech engineering professor, exhibiting more insight than tact, once expressed his version of this idea as follows:"The pricipal job of an academic administration is to keep the people who don't matter from interfering with the work of the poeple that do."
+
 ---
 <br><br>
 __Reason-Respecting Tendency__<br>
 It makes man especially prone to learn well when a would-be teacher gives correct reasons fo what is taught, instead of simply laying out the desired belief ex cathedra with no reasons given. Few practices, therefore, are wiser than not only thinking through reasons before giving orders ut also communicating there reasons to the recipient of the order.
+
 ---
 <br><br>
 __Exploiting Reason-Respecting Tendency__<br>
