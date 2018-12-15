@@ -439,7 +439,7 @@ What's Wrong with Economics?
 
 ---
 <br><br>
-__Thenature of this failure is that it creates what I always call man-with-a-hammer syndrome. And that's taken from the folk saying: To the man with only a hammer,every problem looks pretty much like a nail. And that works marvelously to gum up all professions and all departments of academia and, indeed, most practical life.The only antidote for being an absolute klutz due to the presence of a man-with-a-hammer syndrome is to have a full kit of tools. You don't have just a hammer.You've got all the tools. And you've got to have one more trick. You've got to use those tools checklist-style because you'l l miss a lot if you just hope that the right tool is going to pop up unaided whenever you need it. But if you've got a full list of tools and go through them in your mind, checklist-style, you will find a lot of answers that you won't find any other way.__
+__The nature of this failure is that it creates what I always call man-with-a-hammer syndrome. And that's taken from the folk saying: To the man with only a hammer,every problem looks pretty much like a nail. And that works marvelously to gum up all professions and all departments of academia and, indeed, most practical life.The only antidote for being an absolute klutz due to the presence of a man-with-a-hammer syndrome is to have a full kit of tools. You don't have just a hammer.You've got all the tools. And you've got to have one more trick. You've got to use those tools checklist-style because you'l l miss a lot if you just hope that the right tool is going to pop up unaided whenever you need it. But if you've got a full list of tools and go through them in your mind, checklist-style, you will find a lot of answers that you won't find any other way.__
 
 A special version of this man-with-a-hammer syndrome is terrible, not only in economics but practically everywhere else, including business. lt's really terrible in business. You've got a complex system, and it spews out a lot of wonderful numbers that enable you to measure some factors. But there are other factors that are terribly
 important, [yet] there's no precise numbering you can put to these factors. You know they're important, but you don't have the numbers. Well, practically everybody (1) overweighs the stuff that can be numbered because it yields to the statistical techniques they're taught in academia and (2) doesn't mix in the hard-to-measure stuff that may be more important. That is a mistake I've tried all my life to avoid, and I have no regrets for having done that. 
@@ -472,12 +472,12 @@ all human systems are gamed, for reasons rooted deeply in psychology, and great 
 
 ---
 <br><br>
-__About People designing easily gameable system__
+__About People designing easily gameable system__<br>
 They just don't think about what terrible things they're doing to the civilization because they don't take into account the second-order effects and the third-order effects in lying and cheating.
 
 ---
 <br><br>
-__On Tolerating unfrainess for the greater good__
+__On Tolerating unfrainess for the greater good__<br>
 It is not always recognized that, to function best, morality should sometimes appear unfair, like most worldly outcomes. The craving for perfect fairness causes a lot of terrible problems in system function. Some systems should be made deliberately unfair to individuals because they'll be fairer on average for all of us. Thus, there can be virtue in apparent non-fairness. I frequently cite the example of having your career over, in the Navy. if your ship goes aground, even if it wasn't your fault. I says the lack of justice for the one guy that wasn't at fault is way more than made up by a greater justice for everybody when every captain of a ship always sweats blood to make sure the ship doesn't go aground.
 
 
@@ -491,7 +491,7 @@ __"No matter how smart you are, there are smart people out there who can fool yo
 
 ---
 <br><br>
-__Talking to newly graduated lawyer__
+__Talking to newly graduated lawyer__<br>
 Without lifetime learning, you people are not going to do very well. You are not going to get very far in life based on what you already know. You're going to advance in life by what you learn after you leave here. 
 
 ---
@@ -501,55 +501,55 @@ __"A mean who doesn't know what happened before he is born goes through life lik
 
 ---
 <br><br>
-__On Inversion__
+__On Inversion__<br>
 The way complex adaptive systems work, and the way mental constructs work, problems frequently get easier to solve through "inversion. " If you turn problems around into reverse, you often think better. 
 
 For instance, if you want to help India, the question you should consider asking is not: "How can I help India?" instead, you should ask: "How can I hurt India?" You find what will do the worst damage, and then try to avoid it. Perhaps the two approaches seem logically the same thing. But those who have mastered algebra know that inversion will often and easily solve problems chat otherwise resist solution. And in life, just as in algebra, inversion will help you solve problems that you can't otherwise handle. 
 
 ---
 <br><br>
-__On Extreme Ideology__
+__On Extreme Ideology__<br>
 Another thing to avoid is extremely intense ideology because it cabbages up one's mind. You see a lot of it in the worst of the TV preachers. They have different, intense, inconsistent ideas about technical theology, and a lot of them have minds reduced to cabbage. (Audience laughs) And that can happen with political ideology. And if you're young, it's particularly easy to drift into intense and foolish political ideology and never get out. 
 
 ---
 <br><br>
-__On what's needed to hold an opinion__
+__On what's needed to hold an opinion__<br>
 I have what I call an "iron prescription" that helps me keep sane when I drift toward preferring one intense ideology over another. I feel that I'm not entitled to have an opinion unless I can ttate the arguments against my position better than the people who are in opposition. 1 think that I am qualified to speak only when I've reached that state. 
 
 
 
 ---
 <br><br>
-__About self-pity__
+__About self-pity__<br>
 Every time vou find you're drifting into self-pity, whatever the cause, even if your child is dying of cancer, self-pity is not going help. Just give yourself one of my friend's cards. Self-pity is always counterproductive. It's the wrong way to think. And when you avoid it, you get a great advantage over everybody else, or almost everybody else, because self-pity is a standard response. And you can train yourself out of it. 
 
 ---
 <br><br>
-__Self-serving bias__
+__Self-serving bias__<br>
 Another thing that often causes folly and ruin is the "self-serving bias," often subconscious, to which we're all subject. You think that "the true little me" is entitled to do what it wants to do. For instance, why shouldn't the true little me get what it wants by overspending its income?
 
 Of course you also want to get self-serving bias out of your mental routines. Thinking that what's good for you is good for the wider civilization, and rationalizing foolish or evil conduct, based on your subconscious tendency to serve yourself, is a terrible way to think. And you want to drive that out of yourself because you want to be wise not foolish, and good not evil. You also have to allow, in your own cognition and conduct, for the self-serving bias of everybody else, because most people are not going to be very successful at removing such bias, the human condition being what it is. If you don't allow for self-serving bias in the conduct of others, you are, again, a fool.
 
 ---
 <br><br>
-__On finding counterhypothesis__
+__On finding counterhypothesis__<br>
 Engaging in routines that allow you to maintain objectivity are, of course, very helpful to cognition. We all remember that Darwin paid special attention to disconfirming evidence, particularly when it disconfirmed something he believed and loved. Routines like that are required if a life is to maximize correct thinking. And one also needs check list routines. They prevent a lot of errors, and not just for pilots. You should nor only possess wide-ranging elementary wisdom but also go through mental checklist routines in using it. There is no other procedure that will work as well. 
 
 ---
 <br><br>
-__Non-equality__
+__Non-equality__<br>
 Another idea that I found important is that maximizing non-egality will often work wonders. 
 [...]
 I think the game of competitive life often requires maximizing the experience of the people who have the most aptitude and the most determination as learning machines. And if you want the very highest reaches of human acheivement, that's where you have to go.
 
 ---
 <br><br>
-__Intense interest__
+__Intense interest__<br>
 Another thing that I have found is that intense interest in any subject is indispensable if you're really going to excel in it. I could force myself to be fairly good in a lot of things, but I couldn't excel in anything in which I didn't have an intense interest. So to some extent you're going to have to do as I did. If at all feasible, you want to maneuver yourself into doing something in which you have an intense nterest. 
 
 ---
 <br><br>
-__On how to deal with bad things in life__
+__On how to deal with bad things in life__<br>
 Another thing to cope with is that life is very likely to provide terrible blows, unfair blows. Some people recover. and others don't. And there I think the attitute of Epictetus helps guide one to the right reaction. He thought that mischance in life, however bad, reated an opportunity to behave well. He believed every mischance provided an opportunity to learn something useful. And one's duty was not to become immersed in self-pity, but to utilize each terrible blow in a constructible fashion. 
 
 ---
@@ -559,17 +559,17 @@ __"People are not disturbed by things, but by the view they take of them."
 
 ---
 <br><br>
-__On an alternative to bureaucraty__
+__On an alternative to bureaucraty__<br>
 The last idea that I want to give to you, as you go out into a profession that fequently puts a lot of procedure and some mumbo jumbo into what it does, is that complex bureaucratic procedure does not represent the highest form of civilization can reach. One higher form is a seamless, non-bureaucratic web of deserved trust. Not much fancy procedure, just totally reliable people correctly trusting one another.
 
 ---
 <br><br>
-__On contrast Bias__
+__On contrast Bias__<br>
 A magician demonstrates this sort of contrast-based error in your nervous system when he remove your wristwatch without your feeling it. As he does this, he applies pressure of touch on your wrist that you would sense if it was the only pressure of touch you were experiencing. But he has concurrently applied other intense pressure of touch on your body, but not on your wrist, "swamping" the wrist pressure by creating a high-contrast touch pressure elsewhere. This high contrast takes the wrist pressure below perception.
 
 ---
 <br><br>
-__On Contrast Bias__
+__On Contrast Bias__<br>
 __Some psychology professors like to demonstrate the inadequacy of contrast-based perception by having students put one hand in a bucket of hot water and one hand in a bucket of cold water. They are then suddenly asked to remove both hands and place them in a single bucket of room-temperature water. Now, with both hands in thesame water, one hand feels as if it has just been put in cold water and the other hand feels as if it has just been placed in hot water. When one thus sees perception so easily fooled by mere contrast, where a simple temperature gauge would make no error, and realizes that cognition mimics perception in being misled by mere contrast, he is well on the way toward understanding, not only how magicians fool one, but also how life will fool one.__
 
 ---
@@ -700,6 +700,7 @@ It is easy to see that a quickly reached conclusion, triggered by Doubt-avoidanc
 <br><br>
 __Inconsistency-Avoidance Tendency__<br>
 What Keynes was reporting is that the human mind works a lot like the human egg. When one sperm gets into a human egg, there's an automatic shut-off device that bars any other sperm from getting in.
+
 ---
 <br><br>
 
@@ -771,17 +772,17 @@ Excesses of self-regard often cuase bad hiring decisions because employers gross
 
 ---
 <br><br>
-__Tolstoy on Excessive Self-Regard Tendency __<br>
+__Tolstoy on Excessive Self-Regard Tendency__<br>
 According to Tolstoy, the worst criminal don't appraise themselves as all that bad. They come to believe either (1) that they didn't commit their crimes or (2) that, considering the pressures and disadvantages of their lives, it is understandable and forgivable that they behaved as they did and became what they became.
 
 ---
 <br><br>
-__Antidote of Excessive Self-Regard Tendency __<br>
+__Antidote of Excessive Self-Regard Tendency__<br>
 Because a majority of mankind will try to get along by making way too many unreasonable excuses for fixable poor performance, it is very important to have personal and institutional antidotes limiting the ravages of such folly. On the personal level a man should try to face the two simple facts: (1) fixable but unfixed bad performance is bad character and tends to create more of itself, causing more damage to the excuse giver with each tolerated instance, and (2) in demanding places, like athletic teams and General Electric, you are almost sure to be discarded in due course if you keep giving excuses instead of behaving as you should. The main institutional antidotes to this part of the "Tolsroy effect" are (l) a fair, meritocratic, demanding culture plus personnel handling methods that build up morale and (2) severance of the worst offenders. Of course, when you can't sever, as in the case of your own child, you must try to fix the child as best you can.
 
 ---
 <br><br>
-__Antidote of Excessive Self-Regard Tendency __<br>
+__Antidote of Excessive Self-Regard Tendency__<br>
 The best antidote to folly from an excess of self-regard is to force yourself to be more objective when you are thinking about yourself, your family and friends, your property, and the value of your past and future activity. This isn't easy to do well and won't work pefectly, but it will work much better than simply letting psychological nature take its normal course. While an excess of self-regard is often counter-productive in its effects on cognition, it can cause some weird successes from overconfidence that happens to cause success. This factor accounts for the adage: "Never underestimate the man who overestimate himself."
 
 ---
