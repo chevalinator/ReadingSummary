@@ -407,12 +407,12 @@ __• What are the factors that really govern the interests involved, rationally
 __• What are the subconscious influences, where the brain at a subconscious level is automatically forming conclusions? (influences from instincts, emotions, cravings, and so on).__
 ---
 <br><br\
-Benjamin Franklin's observation in Poor Rirhord's Jl/mo11ori>, "If you would persuade, appeal to interest and not to reason." 
+Benjamin Franklin's observation in Poor Richard's Almanach, "If you would persuade, appeal to interest and not to reason." 
 ---
 <br><br>
 I absorbed what I call the fundamental full attribution ethos of hard science. And that was enormously useful to me. Let me explain that ethos. 
 
-Under  this ethos, you've got to know all the big ideas in all the disciplines more fundamental than your own. You can never make any explanation that can be made in a more fundamental way in any other way than the most fundamental way. And you always take with full attribution to the most fundamental ideas that you are required to use. When you're using physics, you say you're using physics. When you're using biology, you say you're using biology. And so on and so on. I could early see that that ethos would act as a fine organizing system for my thought. And I strongly suspected that it would work really well in the soft sciences as well as the hard sciences, so I just grabbed it and used it all through my life in soft science as wdell as hard science. That was a very lucky idea for me. 
+Under this ethos, you've got to know all the big ideas in all the disciplines more fundamental than your own. You can never make any explanation that can be made in a more fundamental way in any other way than the most fundamental way. And you always take with full attribution to the most fundamental ideas that you are required to use. When you're using physics, you say you're using physics. When you're using biology, you say you're using biology. And so on and so on. I could early see that that ethos would act as a fine organizing system for my thought. And I strongly suspected that it would work really well in the soft sciences as well as the hard sciences, so I just grabbed it and used it all through my life in soft science as wdell as hard science. That was a very lucky idea for me. 
 
 ---
 <br><br>
@@ -442,7 +442,7 @@ important, [yet] there's no precise numbering you can put to these factors. You 
 
 ---
 <br><br>
-I want economics to pick up the basic ethos of hard science, the full attribution habit, but not that craving for an unattainable precision that comes from physics envy. The sort of precise, reliable formula that includes Boltzmann's constant is not going co happen, by and large, in economics. Economics involves too complex a system. And the craving for that physic-style precision does little but get you in terrible trouble,
+I want economics to pick up the basic ethos of hard science, the full attribution habit, but not that craving for an unattainable precision that comes from physics envy. The sort of precise, reliable formula that includes Boltzmann's constant is not going to happen, by and large, in economics. Economics involves too complex a system. And the craving for that physic-style precision does little but get you in terrible trouble,
 
 ---
 <br><br>
@@ -503,7 +503,7 @@ Another thing to avoid is extremely intense ideology because it cabbages up one'
 
 ---
 <br><br>
-__On how what's needed to hold an opinion__
+__On what's needed to hold an opinion__
 I have what I call an "iron prescription" that helps me keep sane when I drift toward preferring one intense ideology over another. I feel that I'm not entitled to have an opinion unless I can ttate the arguments against my position better than the people who are in opposition. 1 think that I am qualified to speak only when I've reached that state. 
 
 
@@ -515,9 +515,9 @@ Every time vou find you're drifting into self-pity, whatever the cause, even if 
 ---
 <br><br>
 __Self-serving bias__
-Another thing that often causes folly and ruin is the "self-serving bias," often subconscious, to which we' re all subject. You think that "the true little me" is entitled to do what it wants to do. For instance, why shouldn't the true little me get what it wants by overspending its income?
+Another thing that often causes folly and ruin is the "self-serving bias," often subconscious, to which we're all subject. You think that "the true little me" is entitled to do what it wants to do. For instance, why shouldn't the true little me get what it wants by overspending its income?
 
-Of course you also want to get self-serv ing bias out of your mental routines. Thinking that what's good for you is good for the wider civilization, and rationalizing foolish or evil conduct, based on your subconscious tendency to serve yourself, is a terrible way to think. And you want to drive that out of yourself because you want to be wise not foolish, and good not evil. You also have to allow, in your own cognition and conduct, for the self-serving bias of everybody else, because most people are not going to be very successful at removing such bias, the human condition being what it is. If you don't allow for self-serving bias in the conduct of others, you are, again, a fool.
+Of course you also want to get self-serving bias out of your mental routines. Thinking that what's good for you is good for the wider civilization, and rationalizing foolish or evil conduct, based on your subconscious tendency to serve yourself, is a terrible way to think. And you want to drive that out of yourself because you want to be wise not foolish, and good not evil. You also have to allow, in your own cognition and conduct, for the self-serving bias of everybody else, because most people are not going to be very successful at removing such bias, the human condition being what it is. If you don't allow for self-serving bias in the conduct of others, you are, again, a fool.
 ---
 <br><br>
 __On finding counterhypothesis__
@@ -525,7 +525,7 @@ Engaging in routines that allow you to maintain objectivity are, of course, very
 ---
 <br><br>
 __Non-equality__
-Another idea that T found important is that maximizing non-egality will often work wonders. 
+Another idea that I found important is that maximizing non-egality will often work wonders. 
 [...]
 I think the game of competitive life often requires maximizing the experience of the people who have the most aptitude and the most determination as learning machines. And if you want the very highest reaches of human acheivement, that's where you have to go.
 ---
@@ -535,7 +535,7 @@ Another thing that I have found is that intense interest in any subject is indis
 ---
 <br><br>
 __On how to deal with bad things in life__
-Another thing to cope with is that life is very likely to provide terrible blows, unfair blows. Some people recover. and others don't. And there I think the attitute of Epictetus helps guide one to the right reaction. He thought that mischance in life, however bad, reated an opporwnity to behave well. He believed every mischance provided an opporwnity to learn something useful. And one's duty was not to become immersed in self-pity, but to utilize each terrible blow in a comtructible fashion. 
+Another thing to cope with is that life is very likely to provide terrible blows, unfair blows. Some people recover. and others don't. And there I think the attitute of Epictetus helps guide one to the right reaction. He thought that mischance in life, however bad, reated an opportunity to behave well. He believed every mischance provided an opportunity to learn something useful. And one's duty was not to become immersed in self-pity, but to utilize each terrible blow in a constructible fashion. 
 
 ---
 <br><br>
@@ -580,11 +580,11 @@ __Munger's list of psychological bias__
 
 -Ten: Influence-from-Mere-Association Tendency
 
--Eleven: Simple pain-avoiding physiological denial
+-Eleven: Simple pain-avoiding psychological denial
 
 -Twelve: Excessive Self-Regard Tendency
 
--Thirteen: Overoptimish Tendency
+-Thirteen: Overoptimism Tendency
 
 -Fourteen Deprival-Superreaction Tendency
 
@@ -635,7 +635,246 @@ As the name implies, the economists have typically known that, just as grain is 
 
 ---
 <br><br>
+The extreme success of free-market capitalism as an economic system owes much to its prevention of many of bad effects from incentive-caused bias. Most capitalist owner [...] live on the difference between their competitive prices and their overall cost and their business will perish if cost exceed sales. Replace such owners by salaried employees of the state and you will normally get a substantial reduction in overall efficency as each employee who replaces an owner is subject to incentive-caused bias as he determines what service he will give in exchange for his salary.
+---
+<br><br>
+ Another  generalized consequence of incentive-caused bias is that man tends to "game" all human systems, often displaying great ingenuity in wrongly serving himself at the expense of others. Anti-gaming features, therefore, constitute a huge and necessary part of almost all system design. Also neede in system design is admonition: Dread, and avoid as much you can, rewarding people for waht can easily be faked.
+---
+<br><br>
+__Granny's Rule__<br>
+consultatn Ph. D. psychologists often urge business organizations to improve their reward systems by teaching executives to use "Granny's Rule" to govern their own daily behavior.  Granny's Rule, to be specific, is the requirement that children eat their carrots before they get dessert. And the business version requires tht executives force themselves daily to first do their unpleasant and necessary task before rewarding themselves to their pleasan tasks. Given reward superpower, this practice is wise and sound.
+---
+<br><br>
+__Like Tendency__<br>
+One very practical consequence of Liking/Loving Tendency is that it acts as a conditioning device that makes the liker or lover tend (1) to ignore faults of, and comply with wishes of, the object of his affection, (2) to favor people, products, and actions merely associated with the object of his affection, and (3) to distort other facts to facilitate love.
+---
+<br><br>
+__Dislike Tendency__<br>
+Disliking tendency also acts as a conditioning device that makes the disliker/hater tend to (1) ignore virtues in the object of dislike (2) dislike people, products, and actions merely associated with the subject of dislike, and (3) distort other facts to facilitate hatred.
+---
+<br><br>
+Buffett has repeatedly explained to me that "a major difference between rich and poor people is that the rich people can spend their lives suing their relatives." 
+---
+<br><br>
+__Doubt-Avoidance Tendency__<br>
+The brain of man is programmed with a tendency to quickly remove doubt by reaching some decision.
+[...] what usually triggers Doubt-Avoidance Tendency is some combinaison of (1) puzzlement and (2) stress.
+---
+<br><br>
+__Inconsistency-Avoidance Tendency__<br>
+The brain of man conserves programming space by being reluctant to changes, which is a form of inconsistency avoidance. We see this in all human habits, constructive and destructive.[...] practically everyone has a great many bad habits he has long maintained despite their being known as bad. Given this situation, it is not too much in many case to appraise early-formed habits as destiny. When Marleys's miserable ghosts says, "I wear the chains I forged in life," he is talking about chains of habit that were too light to be felt before they became too strong to be broken. 
+---
+<br><br>
+__Inconsistency-Avoidance Tendency__<br>
+It is easy to see that a quickly reached conclusion, triggered by Doubt-avoidance Tendency, when combined with a tendency to resist any change in that conclusion, will naturally cause a lot of errors in cognition for modern man. And so it observably works out. We all deal much with other's whom we correctly diagnose as imprisoned in poor conclusions that are maintained by mental habits they formed early and will carry to their graves. 
+---
+<br><br>
+__Inconsistency-Avoidance Tendency__<br>
+What Keynes was reporting is that the human mind works a lot like the human egg. When one sperm gets into a human egg, there's an automatic shut-off device that bars any other sperm from getting in.
+---
+<br><br>
+
+As he was rising from obscurity in Philadelphia and wanted the approval of some important man, Franklin would often maneuver that man into doing Franklin some unimportant favor, like lending Franklin a book. Thereafter, the man would admire and trust Franklin more because a nonadmired and nontrusted Franklin would be inconsistent with the appraisal implicit in lending Franklin the book. 
 
 ---
 <br><br>
+When one is maneuvered into deliberately hurting some other person, one will tend to disapprove or even hate that person.
+---
+<br><br>
+__Kantian Fairness Tendency__<br>
+Also, strangers often voluntarily share equally in unexpected, unearned good and bad fortune. And, as an observe consequence of such "fair-sharing" conduct, much reactive hostility occurs when fair-sharking is expected yet not provided.
+---
+<br><br>
+__Reciprocation Tendency__<br>
+Like other psychological tendencies, and also man's ability to turn somersaults, reciprocate-favor tendency operates to a very considerable degree at a subconscious level. This helps make the tendency a strong force that can sometimes be used by some men to mislead others, which happens all the time. For instance, when an automobile salesman graciously steers you into a comfortable place to sit and gives you a cup of coffee, you are very likely being tricked, by this small courtesy alone, into parting with an extra five hundred dollars.
+
+However, in this scenario of buying a car, you are going to be disadvantaged by parting with an extra five hundred dollars of your own money. This potential loss will protect you to some extent. But suppose you are the purchasing agent of someone else-a rich employer, for instance. Now the minor favor you receive from the salesman is less opposed by the threat of extra cost to you because someone else is paying the extra cost. Under such circumstances, the salesman is often able to maximize his advantage, particularly when government is the purchaser. 
+
+---
+<br><br>
+To the extent the feeling of guilt has an evolutionary base, I believe the most plausible cause is the mental conflict triggered in one direction by reciprocate-favor tendency and in the opposite direction by reward superresponse tendency pushing one to enjoy one hundred percent of some good thing.[...]There is a charming Irish Catholic priest in my neighborhood who, with rough accuracy, often says, "The old Jews may have invented guilt, but we Catholics perfected it." And if you, like me and this priest, believe that, averaged out, feelings of guilt do more good than harm, you may join in my special gratitude for reciprocate-favor tendency, no matter how unpleasant you find feelings of guilt.
+---
+<br><br>
+__Influence-from-Mere-Association Tendency__<br>
+Enven association that appears to be trivial, if carefully planned, can have extreme and peculiar effects on purchasers of products. The target purchaser of shoe polish may like pretty girls. And so he chooses the polish with the pretty girl on the can or the one with the pretty girl in the last ad for shoe polish that he saw.
+---
+<br><br>
+__Influence-from-Mere-Association Tendency__<br>
+The proper antidotes to being made such a patsy by past success are (1) to carefully examine each past success, looking for accidental, non-causative factors associated with such success that will tend to mislead as one appraises odds implicit in a proposed new undertaking and (2) to look for dangerous aspects of the new undertaking that were not present when past success occurred. 
+---
+<br><br>
+Hating and disliking also cause miscalculation triggered by mere association. ln business, I commonly see people under appraise both the competency and morals of competitors they dislike.This is a dangerous practice, usually disguised because it occurs on a subconscious basis.
+---
+<br><br>
+__Persian Messenger Syndrome__<br>
+Persian Messenger Syndrome is alive and well in modern life, albeit in less lethal versions.It is actually dangerous in many careers to be a carrier of unwelcome news. Union negotiators and employer representatives often know this,and it leads to many tragedies in labor relations. Sometimes lawyers, knowing their clients will hate them if they recommend an unwelcome but wise settlement, will carry on to disaster. 
+---
+<br><br>
+__Persian Messenger Syndrome__<br>
+The proper antidote to creating Persian Messenger Syndrome and its bad effects, like those at CBS, is to develop, through exercise of will, a habit of welcoming bad news. At Berkshire, there is a common injunction: "Always tell us the bad news promptly. It is only the good news chat can wait." It also helps to be so wise and informed that people fear not telling you bad news because you are so likely to get it elsewhere.
+---
+<br><br>
+__Hurting people helping you__<br>
+Influence-from -mere-Association Tendency often has a shocking effect that helps swamp the normal tendency to return favor for favor. Sometimes, when one receives a favor, his condition is unpleasant, due to poverty, sickness, subjugation, or something else. In addition the favor may trigger an envy-driven dislike for the person who was in so favorable a state that he could easily be a favor giver. Under such circumstances, the favor receiver, prompted partly by mere association of the favor giver with past pain, will not only dislike the man who helped him but also try to injure him. 
+---
+<br><br>
+__Excessive Self-Regard Tendency__<br>
+We all commonly observe the excessive self-regard of man. He mostly misappraises himself on the high side [...] Such misappraisal also apply to a person's major "possession" [...] Once owned, they suddenly become worth more to him than he would pay if there were offered for sale to him and he didn't already own them. There is a name in psychology for this overappraise-your-own-possessiion phenomenon: the "endowment effect." And all man's decision are suddenly regarded by him as better than would have been the case just before he made them.
+---
+<br><br>
+__Excessive Self-Regard Tendency effects on groups__<br>
+Some of the worst consequences in modern life come when dysfunctional groups of cliquish persons, dominated by Excessive Self-Regard Tendency, select as new members of their organizations persons who are very much like themselves. Thus if the English department at an elite university becomes mentally dysfunctional or the sales department of a brokerage firm slips into routine fraud, the problem will have a natural tendency to get worse and to be quite resistant to change for the better. 
+---
+<br><br>
+__Excessive Self-Regard Tendency effects on hiring__<br>
+Excesses of self-regard often cuase bad hiring decisions because employers grossly overappraise the worth of their own conclusions that rely on impressions in face-to-face contact. The correct antidote to this sort of folly is to underweigh face-to-face impressions and overweigh the applicat's past record.
+---
+<br><br>
+__Tolstoy on Excessive Self-Regard Tendency __<br>
+According to Tolstoy, the worst criminal don't appraise themselves as all that bad. They come to believe either (1) that they didn't commit their crimes or (2) that, considering the pressures and disadvantages of their lives, it is understandable and forgivable that they behaved as they did and became what they became.
+
+---
+<br><br>
+__Antidote of Excessive Self-Regard Tendency __<br>
+Because a majority of mankind will try to get along by making way too many unreasonable excuses for fixable poor performance, it is very important to have personal and institutional antidotes limiting the ravages of such folly. On the personal level a man should try to face the two simple facts: (1) fixable but unfixed bad performance is bad character and tends to create more of itself, causing more damage to the excuse giver with each tolerated instance, and (2) in demanding places, like athletic teams and General Electric, you are almost sure to be discarded in due course if you keep giving excuses instead of behaving as you should. The main institutional antidotes to this part of the "Tolsroy effect" are (l) a fair, meritocratic, demanding culture plus personnel handling methods that build up morale and (2) severance of the worst offenders. Of course, when you can't sever, as in the case of your own child, you must try to fix the child as best you can.
+---
+<br><br>
+__Antidote of Excessive Self-Regard Tendency __<br>
+The best antidote to folly from an excess of self-regard is to force yourself to be more objective when you are thinking about yourself, your family and friends, your property, and the value of your past and future activity. This isn't easy to do well and won't work pefectly, but it will work much better than simply letting psychological nature take its normal course. While an excess of self-regard is often counter-productive in its effects on cognition, it can cause some weird successes from overconfidence that happens to cause success. This factor accounts for the adage: "Never underestimate the man who overestimate himself."
+
+---
+<br><br>
+__Antidote to over-optimism tendency__<br>
+One standard antidote to foolish optimism is trained, habitual use of the simple probability math of Fermat and Pascal [...]. The mental rules of thumb that evolution gives you to deal with risk are not adequate. They ressemble the dysfunctional golf grip you would have if you relied on a grip driven by evolution instead of golf lessons.
+---
+<br><br>
+__Deprival-Superreaction Tendency__<br>
+The quantity of man's pleasure from a ten-dollar gain does not exactly match the quantity of his displeasure from a ten-dollar loss. That is, the loss seems to hurt much more than the gain seems to help. Moreover, if a man almost gets something he greatly wants and has it jerked away from him at the last moment, he will react much as if he had long owned the reward and had it jerked away. I include the natural human reactions to both kinds of loss experience-the loss of the possessed reward and the loss of the almost-possessed reward-under
+one description, Deprival-Superreaction Tendency.
+
+---
+<br><br>
+__Deprival-Superreaction Tendency__<br>
+The Mungers once owned a tame and good-natured dog that displayed the canine version of Deprival-Superreaction Tendency. There was only one way to get bitten by this dog. And that was to try and take some food away from him after he already had it in his mouth. If you did that, this friendly dog would automatically bite. He couldn't help it. Nothing could be more stupid than for the dog to bite his master. But the dog couldn't help being foolish. He had an autoamtic Deprival-Superreaction Tendency in his nature. Humans are much the same as this Munger dog, A man ordinarily reacts with irrational intensity to even a small loss, or threatened loss of property, love, friendship, dominated territory, opportunity, status, or any other valued thing.
+
+---
+<br><br>
+__Tendency sustaining extreme ideology__<br>
+It is almost everywhere the case that extremes of ideology are maintained with great intensity and with great antipathy to non-believers, causing extremes of cognitive dysfunction. This happens, I believe, because two psychological tendencies are usualy action concurrently toward this same sad result: (1) Iconsistency-Avoidance Tendency, plus (2) Deprival-Superreaction Tendency
+---
+<br><br>
+__Deprival-Superreaction Tendency effect on labor relations__<br>
+_Deprival-Superreaction Tendency has a ghastly effects in labor relations. Most of the deaths in the labor strife that occurred before World War l came when employers tried co reduce wages. Nowadays, we see fewer deaths and more occasions when whole companies disappear, as competition requires either takeaways from labor-which it will not consent to-or death of the business. Deprivai- Supcrreaction Tendency causes much of this labor resistance, often in cases where it would be in labor's interest to make a different decision.
+
+---
+<br><br>
+__Social-Proof Tendency__<br>
+The otherwise complex behavior of man is much simplified when he automatically thinks and does what he observes to be thought and done around him. And such followership often works fine. For instance, what simpler way could there be to find out how to walk to a big football game in a strange city than by fo llowing the flow of the crowd. For some such reason, man's evolution left him with Sociai-Proof Tendency, an automatic tendency to think and act as he sees others around him thinking and acting. <br>
+
+Psychology professors love Social-Proof  Tendency because in their experiments it causes ridiculous results. For instance, if a professor arranges for some stranger tO enter an elevator wherein ten "compliance practitioners" are all silently standing so that they face the rear of the elevator, the stranger will oftcn turn around and do the same.
+
+---
+<br><br>
+__Social-Proof on your people__<br>
+Judith Rich Harris who demonstrated that superrespect by young people for their peers, rather than for parents or other adults, is ordained to some considerable extent by the genes of the young people. This makes it wise for parents to rely more on manipulating the quality of the peers than on exhhortations to their own offspring.
+---
+<br><br>
+__Social-Proof Tendency trigger__<br>
+When will Social-Proof Tendency be most easily triggered? Here the answer is clear from many experiments: Triggering most readily occurs in the presence of puzzlement or stress, and particulary when both exist.
+---
+<br><br>
+__Serpico Effect__<br>
+Not everyone so resists the social contagion of bad behavior. And, therefore, we often get "Serpico Syndrome," named to commemorate the state of a near-totally corrupt New York police division joined by Frank Serpico. He was then nearly murdered by gunfire because of his resistance to going along with the corruption in the division. Such corruption was being driven by social proof plus incentive, the combination that creates Serpico Syndrome. The Serpico story should be taught more than it now is because the didactic power of it's horror is aimed at a very important evil, driven substantially by a very important force: social proof.
+
+---
+<br><br>
+__Lessons pertaining to Social-Proof Tendency__<br>
+If only one lesson is to be chosen from a package of lessons involving Social-Proof Tendency, and used in self improvement, my favorite would be: Learn how to ignore the examples from others when they are wrong, because few skills are more worth having. 
+
+---
+<br><br>
+__Contrast-Misreaction Tendency__<br>
+Contrast-Misreacrion Tendency is routinely used to cause disadvantage for customers buying merchandise and services. To make an ordinary price seem low, the vendor will very frequenntly create a highly artificial price that is much higher than the price always sought, then advertise his standard price as a big reduction from his phony price. Even when people know that this sort of customer manipulation is being attempted, it will often work to trigger buying. 
+---
+<br><br>
+__Contrast-Misreaction Tendency example__<br>
+A buyer from out of the city, perhaps needing to shift his family there, ,visits the office with little time available. The salesman deliberately shows the customer three awful houses at ridiculously high prices. Then he shows him a merely bad house at a price only moderately too high. And, boom, the broker often makes an easy sale. 
+---
+<br><br>
+__Contrast-Misreaction Tendency small steps__<br>
+When a man's steps are consecutively taken toward disaster, with each step being very small, the brain's contrast-misreaction tendency will often let the man go too far toward disaster to be able to avoid it. This happens because each step presents so small a contrast from his present position. 
+---
+<br><br>
+__Stress-Influence Tendency__<br>
+In a phenomenon less well recognized but still widely known, light stress can slightly improve performance-say, in examinations-whereas heavy stress causes dysfunction. 
+---
+<br><br>
+__Effect of stress on Pavlov conditionning__<br>
+Their habits had been transformed, by a combination of his "Pavlovian conditioning" plus standard reward responses, into distinct and different patterns. As the waters of the flood came up and reached,  many dogs reached a point where they had almost no airspace between their noses and the tops of their cages. This subjected them to maximum stress. Immediately thereafter, Pavlov noticed that many of the dogs were no longer behaving as they had. The dog that formerly had liked his trainer now disliked him, for example. This result reminds one of modern cognition reversals in which a person's love of his parents suddenly becomes hate, as  new love has been shifted suddenly to a cult. The unanticipated,  extreme changes in Pavlog dogs would have driven any good experimental scientist into a near-frenzy of curiosity. That was indeed Pavlov's reaction. But not many scientists would have done what Pavlov next did. And that was to spend the rest of his long life giving stress-induced nervous breakdowm to dogs after which he would try to reverse the breakdown,  all the while keeping careful experimental records. He found (1) that he could classify dogs so as to predict how easily a particular dog would breakdown; (2) that the dogs hardest to break down where also the hardest to return to their pre-breakdown state; (3) that any dog could be broken down; and (4) that he couldn't reverse a breakdown except by reimposing stress. 
+---
+<br><br>
+__Availability-Misweighing Tendency__<br>
+This mental tendency echoes the words of the song: "When I'm not near the girl I love, I love the girl I'm near."
+---
+<br><br>
+__Availability-Misweighing Tendency__<br>
+The great algorithm to remember in dealing with this tendency is simple: An idea or a fact is not worth more merely because it is easily available to you.
+---
+<br><br>
+__Availability-Misweighing Tendency Antidote__<br>
+The main antidote to miscues from Availability-Misweighing tendency often involve procedures, including use of checklists, which are almost always helpful. 
+---
+<br><br>
+__Use-It-or-Lose-It Tendency__<br>
+Throughout his life, a wise man engages in  practice of all his useful, rarely used skills, many of them outside his discipline, as a sort of duty to his better self. If he reduces the number of skills he practices and, therefore, the number of skills he retains, he will naturally drift into error from man-with-a-hammer tendency. His learning capacity will also shrink as he creates gaps in the latticework of theory he needs as a framework for understanding new experience. It is also essential for a thinking man to assemble his skills into a checklist that he routinely uses. Any other mode of operation will cause him to miss much that is important.
+---
+<br><br>
+__Authority-Misinfluence Tendency__<br>
+Living in dominance hierarchies as he does, like all his ancestors before him, man was born mostly to follow leaders, with only a few people doing the leading. And so, human society is formally organized into dominance hierarchies, with their culture augmenting the natual follow-the-leader tendency of man. 
+---
+<br><br>
+__Twaddle Tendency__<br>
+A rightly famous Caltech engineering professor, exhibiting more insight than tact, once expressed his version of this idea as follows:"The pricipal job of an academic administration is to keep the people who don't matter from interfering with the work of the poeple that do."
+---
+<br><br>
+__Reason-Respecting Tendency__<br>
+It makes man especially prone to learn well when a would-be teacher gives correct reasons fo what is taught, instead of simply laying out the desired belief ex cathedra with no reasons given. Few practices, therefore, are wiser than not only thinking through reasons before giving orders ut also communicating there reasons to the recipient of the order.
+---
+<br><br>
+__Exploiting Reason-Respecting Tendency__<br>
+Unfortunately, Reason-Respecting Tendency is so strong that even a person's giving of meaningless or incorrect reasons will increase compliance with his orders and requests. This has been demonstrated in psychology experiments wherein "compliance practitioners" successfully jump to the head of the lines in front of copying machines by explaining their reason: "I have to make some copies." This sort of unfortunate byproduct of Reason-Respecting Tendency is a conditioned reflex, based on a widespread appreciation of the importance of reasons. 
+
+---
+<br><br>
+__Answering Why__<br>
+In general, learning is most easily assimilated and used when, life long, people consistently hang their experience, actual and vicarious, on a lattice-work of theory answering the question: Why? Indeed, the question "Why?" is a sort of Rosetta stone opening up the major potentiality of mental life. 
+---
+<br><br>
+__Lollapalooza Tendency - The Tendency to Get Extreme Consequences from the Confluence of Psychological Tendencies Acting in Favor of a Particular Outcome__<br>
+It accounts for the extreme result in the Milgram experiment and the extreme success of some cults that have stumbled through practice evolution into bringing pressure from many psychological tendencies to bear at the same time on conversion targets. The targets vary in susceptibility, like the dogs Pavlov worked with in his old age, but some of the minds that are targeted simply snap into zombiedom under cult pressure.
+---
+<br><br>
+__Examples of usage Psychology Tendency__<br>
+Tendency is not always destiny, and knowing the tendencies and their antidotes can often help prevent trouble that would otherwise occur. Here is a short list of examples reminding us of the great utility of elementary psychological knowledge: 
+
+One: Carl Braun's communication practices. 
+
+Two: The use of simulators in pilot training. 
+
+Three: The system of Alcoholics Anonymous. 
+
+Four: Clinical training methods in medical schools. 
+
+Five: The rules of the U.S. Constitutional Convention: totally secret meetings, no recorded vote by name until the flnal vote, votes reversible at any time before the end of the convention, then just one vote on the whole Constitution.
+
+Six: The use of Granny's incentive-driven rule to manipulate oneself toward better performance ofone's duties. 
+
+Seven: The Harvard Business School's emphasis on decision trees. When I was young and foolish I used to laugh at the Harvard Business School. I said, "They're teaching twenty-eight-year-old people that high school algebra works in real life?" But later, I wised up and realized that it was very important that they do that to counter some bad effects from psychological tendencies.Better late than never. 
+
+Eight: The use of autopsy equivalents at Johnson & Hohnson. At most corporations, if you make an acquisition and it turns out to be a disaster, all the people, paperwork, and presentations that caused the foolish acquisition are quickly forgotten. Nobody wants to be associated with the poor outcome by mentionning it. But at Johnson & Johnson, the rules make everybody revisit old acquisitions, comparing predictions with outcomes. That is a very smart thing to do. 
+
+Nine: The great example of Charles Darwin as he avoided confirmation bias, which has morphed into the extreme anti-confirmation-bias method of the "double blind" studies wisely required in drug research by the FDA. 
+
+Ten: The Warren Buffett rule for open-outcry auctions: Don't go. 
+
 
