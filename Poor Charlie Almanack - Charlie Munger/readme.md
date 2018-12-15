@@ -801,7 +801,7 @@ Contrast-Misreacrion Tendency is routinely used to cause disadvantage for custom
 <br><br>
 __Contrast-Misreaction Tendency example__<br>
 A buyer from out of the city, perhaps needing to shift his family there, ,visits the office with little time available. The salesman deliberately shows the customer three awful houses at ridiculously high prices. Then he shows him a merely bad house at a price only moderately too high. And, boom, the broker often makes an easy sale.
- 
+
 ---
 <br><br>
 __Contrast-Misreaction Tendency small steps__<br>
@@ -851,10 +851,12 @@ Unfortunately, Reason-Respecting Tendency is so strong that even a person's givi
 <br><br>
 __Answering Why__<br>
 In general, learning is most easily assimilated and used when, life long, people consistently hang their experience, actual and vicarious, on a lattice-work of theory answering the question: Why? Indeed, the question "Why?" is a sort of Rosetta stone opening up the major potentiality of mental life. 
+
 ---
 <br><br>
 __Lollapalooza Tendency - The Tendency to Get Extreme Consequences from the Confluence of Psychological Tendencies Acting in Favor of a Particular Outcome__<br>
 It accounts for the extreme result in the Milgram experiment and the extreme success of some cults that have stumbled through practice evolution into bringing pressure from many psychological tendencies to bear at the same time on conversion targets. The targets vary in susceptibility, like the dogs Pavlov worked with in his old age, but some of the minds that are targeted simply snap into zombiedom under cult pressure.
+
 ---
 <br><br>
 __Examples of usage Psychology Tendency__<br>
