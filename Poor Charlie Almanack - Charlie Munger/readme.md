@@ -361,6 +361,7 @@ __You must have the confidence to override people with more credentials than you
 ---
 <br><br>
 __I try to get rid of people who all confidently answer questions about which they don't have any real knowledge. To me, they're like the bee dancing it's incoherent dance. They're just screwing up the hive.__ 
+
 ---
 <br><br>
 __On using psychological techniques on people__  
@@ -371,6 +372,7 @@ That offend's him. You're young. He's old. Therefore, instead of being persuaded
 But, instead, you can say to him. "You can't do that without three other people beneath you knowing about it. Therefore, you're making yourself subject to blackmail. You're risking your reputation. You're risking your family, your money, etc." 
 
 That is likely to work. And you're telling him something that's true. Do you want to spend a lot of time working for people where you have to use methods like that to get them to behave well? I think the answer is no. But if you're hooked with it, appealing to his interest is likely to work better as a matter of human persuasion than appealing to anything else. That. again. is a powerful psychological principle with deep biological roots.
+
 ---
 <br><br>
 __On notions helpful in solving problems__  
@@ -405,9 +407,11 @@ __The Two-Track Analysis__
 __• What are the factors that really govern the interests involved, rationally considered? (for example, macro and micro-level economic factors).__
 
 __• What are the subconscious influences, where the brain at a subconscious level is automatically forming conclusions? (influences from instincts, emotions, cravings, and so on).__
+
 ---
 <br><br\
 Benjamin Franklin's observation in Poor Richard's Almanach, "If you would persuade, appeal to interest and not to reason." 
+
 ---
 <br><br>
 I absorbed what I call the fundamental full attribution ethos of hard science. And that was enormously useful to me. Let me explain that ethos. 
@@ -457,6 +461,7 @@ B) Adding success factors so that a bigger combination drives success, often in 
 C) An extreme of good performance over many factors. Example, Toyota or Les Schwab. 
 
 D) Catching and riding some sort of big wave. Example, Oracle.
+
 ---
 <br><br>
 Why did Max Planck, one of the smartest people who ever lived, give up economics? The answer is, he said, "It's too hard. The best solution you can get is messy and uncertain." 
@@ -464,6 +469,7 @@ Why did Max Planck, one of the smartest people who ever lived, give up economics
 ---
 <br><br>
 all human systems are gamed, for reasons rooted deeply in psychology, and great skill is displayed in the gaming because game theory has so much potential. That's what's wrong with the workers' comp system in California. Gaming has been raised to an art form. In the course of gaming the system, people learn to be crooked. Is this good for civilization? Is it good for economic perfonnance? Hell, no. The people who design easily gameable systems belong in the lowest circle of hell. 
+
 ---
 <br><br>
 __About People designing easily gameable system__
@@ -478,6 +484,7 @@ It is not always recognized that, to function best, morality should sometimes ap
 ---
 <br><br>
 My inspiration again is Keynes: Better roughly right than precisely wrong. 
+
 ---
 <br><br>
 __"No matter how smart you are, there are smart people out there who can fool you if they really want to. So, be sure you can trust the smart people you work with."__ 
@@ -486,16 +493,19 @@ __"No matter how smart you are, there are smart people out there who can fool yo
 <br><br>
 __Talking to newly graduated lawyer__
 Without lifetime learning, you people are not going to do very well. You are not going to get very far in life based on what you already know. You're going to advance in life by what you learn after you leave here. 
+
 ---
 <br><br>
 __"A mean who doesn't know what happened before he is born goes through life like a child"
 -Marcus Tulius Cicero__
+
 ---
 <br><br>
 __On Inversion__
 The way complex adaptive systems work, and the way mental constructs work, problems frequently get easier to solve through "inversion. " If you turn problems around into reverse, you often think better. 
 
 For instance, if you want to help India, the question you should consider asking is not: "How can I help India?" instead, you should ask: "How can I hurt India?" You find what will do the worst damage, and then try to avoid it. Perhaps the two approaches seem logically the same thing. But those who have mastered algebra know that inversion will often and easily solve problems chat otherwise resist solution. And in life, just as in algebra, inversion will help you solve problems that you can't otherwise handle. 
+
 ---
 <br><br>
 __On Extreme Ideology__
@@ -512,26 +522,31 @@ I have what I call an "iron prescription" that helps me keep sane when I drift t
 <br><br>
 __About self-pity__
 Every time vou find you're drifting into self-pity, whatever the cause, even if your child is dying of cancer, self-pity is not going help. Just give yourself one of my friend's cards. Self-pity is always counterproductive. It's the wrong way to think. And when you avoid it, you get a great advantage over everybody else, or almost everybody else, because self-pity is a standard response. And you can train yourself out of it. 
+
 ---
 <br><br>
 __Self-serving bias__
 Another thing that often causes folly and ruin is the "self-serving bias," often subconscious, to which we're all subject. You think that "the true little me" is entitled to do what it wants to do. For instance, why shouldn't the true little me get what it wants by overspending its income?
 
 Of course you also want to get self-serving bias out of your mental routines. Thinking that what's good for you is good for the wider civilization, and rationalizing foolish or evil conduct, based on your subconscious tendency to serve yourself, is a terrible way to think. And you want to drive that out of yourself because you want to be wise not foolish, and good not evil. You also have to allow, in your own cognition and conduct, for the self-serving bias of everybody else, because most people are not going to be very successful at removing such bias, the human condition being what it is. If you don't allow for self-serving bias in the conduct of others, you are, again, a fool.
+
 ---
 <br><br>
 __On finding counterhypothesis__
 Engaging in routines that allow you to maintain objectivity are, of course, very helpful to cognition. We all remember that Darwin paid special attention to disconfirming evidence, particularly when it disconfirmed something he believed and loved. Routines like that are required if a life is to maximize correct thinking. And one also needs check list routines. They prevent a lot of errors, and not just for pilots. You should nor only possess wide-ranging elementary wisdom but also go through mental checklist routines in using it. There is no other procedure that will work as well. 
+
 ---
 <br><br>
 __Non-equality__
 Another idea that I found important is that maximizing non-egality will often work wonders. 
 [...]
 I think the game of competitive life often requires maximizing the experience of the people who have the most aptitude and the most determination as learning machines. And if you want the very highest reaches of human acheivement, that's where you have to go.
+
 ---
 <br><br>
 __Intense interest__
 Another thing that I have found is that intense interest in any subject is indispensable if you're really going to excel in it. I could force myself to be fairly good in a lot of things, but I couldn't excel in anything in which I didn't have an intense interest. So to some extent you're going to have to do as I did. If at all feasible, you want to maneuver yourself into doing something in which you have an intense nterest. 
+
 ---
 <br><br>
 __On how to deal with bad things in life__
@@ -541,6 +556,7 @@ Another thing to cope with is that life is very likely to provide terrible blows
 <br><br>
 __"People are not disturbed by things, but by the view they take of them."
 -Epictetus__
+
 ---
 <br><br>
 __On an alternative to bureaucraty__
@@ -550,13 +566,16 @@ The last idea that I want to give to you, as you go out into a profession that f
 <br><br>
 __On contrast Bias__
 A magician demonstrates this sort of contrast-based error in your nervous system when he remove your wristwatch without your feeling it. As he does this, he applies pressure of touch on your wrist that you would sense if it was the only pressure of touch you were experiencing. But he has concurrently applied other intense pressure of touch on your body, but not on your wrist, "swamping" the wrist pressure by creating a high-contrast touch pressure elsewhere. This high contrast takes the wrist pressure below perception.
+
 ---
 <br><br>
 __On Contrast Bias__
 __Some psychology professors like to demonstrate the inadequacy of contrast-based perception by having students put one hand in a bucket of hot water and one hand in a bucket of cold water. They are then suddenly asked to remove both hands and place them in a single bucket of room-temperature water. Now, with both hands in thesame water, one hand feels as if it has just been put in cold water and the other hand feels as if it has just been placed in hot water. When one thus sees perception so easily fooled by mere contrast, where a simple temperature gauge would make no error, and realizes that cognition mimics perception in being misled by mere contrast, he is well on the way toward understanding, not only how magicians fool one, but also how life will fool one.__
+
 ---
 <br><br>
 Man's- often wrong but generally useful psychological tendencies are quite numerous and quite different. The natural consequence of this profusion of tendencies is the grand general principle of social psychology: cognition is ordinarily situation-dependent so that different situations often cause different conclusions, even when the same person is thinking in the same general subject area. 
+
 ---
 <br><br>
 __Munger's list of psychological bias__
@@ -609,6 +628,7 @@ __Munger's list of psychological bias__
 -Twenty-Four: Reason-Respecting Tendency
 
 -Twenty-Five: Lollapalooza Tendency - 
+
 ---
 <br><br>
 __Reward and Punishment Superresponse tendency__
@@ -636,37 +656,46 @@ As the name implies, the economists have typically known that, just as grain is 
 ---
 <br><br>
 The extreme success of free-market capitalism as an economic system owes much to its prevention of many of bad effects from incentive-caused bias. Most capitalist owner [...] live on the difference between their competitive prices and their overall cost and their business will perish if cost exceed sales. Replace such owners by salaried employees of the state and you will normally get a substantial reduction in overall efficency as each employee who replaces an owner is subject to incentive-caused bias as he determines what service he will give in exchange for his salary.
+
 ---
 <br><br>
  Another  generalized consequence of incentive-caused bias is that man tends to "game" all human systems, often displaying great ingenuity in wrongly serving himself at the expense of others. Anti-gaming features, therefore, constitute a huge and necessary part of almost all system design. Also neede in system design is admonition: Dread, and avoid as much you can, rewarding people for waht can easily be faked.
+
 ---
 <br><br>
 __Granny's Rule__<br>
 consultatn Ph. D. psychologists often urge business organizations to improve their reward systems by teaching executives to use "Granny's Rule" to govern their own daily behavior.  Granny's Rule, to be specific, is the requirement that children eat their carrots before they get dessert. And the business version requires tht executives force themselves daily to first do their unpleasant and necessary task before rewarding themselves to their pleasan tasks. Given reward superpower, this practice is wise and sound.
+
 ---
 <br><br>
 __Like Tendency__<br>
 One very practical consequence of Liking/Loving Tendency is that it acts as a conditioning device that makes the liker or lover tend (1) to ignore faults of, and comply with wishes of, the object of his affection, (2) to favor people, products, and actions merely associated with the object of his affection, and (3) to distort other facts to facilitate love.
+
 ---
 <br><br>
 __Dislike Tendency__<br>
 Disliking tendency also acts as a conditioning device that makes the disliker/hater tend to (1) ignore virtues in the object of dislike (2) dislike people, products, and actions merely associated with the subject of dislike, and (3) distort other facts to facilitate hatred.
+
 ---
 <br><br>
 Buffett has repeatedly explained to me that "a major difference between rich and poor people is that the rich people can spend their lives suing their relatives." 
+
 ---
 <br><br>
 __Doubt-Avoidance Tendency__<br>
 The brain of man is programmed with a tendency to quickly remove doubt by reaching some decision.
 [...] what usually triggers Doubt-Avoidance Tendency is some combinaison of (1) puzzlement and (2) stress.
+
 ---
 <br><br>
 __Inconsistency-Avoidance Tendency__<br>
 The brain of man conserves programming space by being reluctant to changes, which is a form of inconsistency avoidance. We see this in all human habits, constructive and destructive.[...] practically everyone has a great many bad habits he has long maintained despite their being known as bad. Given this situation, it is not too much in many case to appraise early-formed habits as destiny. When Marleys's miserable ghosts says, "I wear the chains I forged in life," he is talking about chains of habit that were too light to be felt before they became too strong to be broken. 
+
 ---
 <br><br>
 __Inconsistency-Avoidance Tendency__<br>
 It is easy to see that a quickly reached conclusion, triggered by Doubt-avoidance Tendency, when combined with a tendency to resist any change in that conclusion, will naturally cause a lot of errors in cognition for modern man. And so it observably works out. We all deal much with other's whom we correctly diagnose as imprisoned in poor conclusions that are maintained by mental habits they formed early and will carry to their graves. 
+
 ---
 <br><br>
 __Inconsistency-Avoidance Tendency__<br>
@@ -679,10 +708,12 @@ As he was rising from obscurity in Philadelphia and wanted the approval of some 
 ---
 <br><br>
 When one is maneuvered into deliberately hurting some other person, one will tend to disapprove or even hate that person.
+
 ---
 <br><br>
 __Kantian Fairness Tendency__<br>
 Also, strangers often voluntarily share equally in unexpected, unearned good and bad fortune. And, as an observe consequence of such "fair-sharing" conduct, much reactive hostility occurs when fair-sharking is expected yet not provided.
+
 ---
 <br><br>
 __Reciprocation Tendency__<br>
@@ -693,41 +724,51 @@ However, in this scenario of buying a car, you are going to be disadvantaged by 
 ---
 <br><br>
 To the extent the feeling of guilt has an evolutionary base, I believe the most plausible cause is the mental conflict triggered in one direction by reciprocate-favor tendency and in the opposite direction by reward superresponse tendency pushing one to enjoy one hundred percent of some good thing.[...]There is a charming Irish Catholic priest in my neighborhood who, with rough accuracy, often says, "The old Jews may have invented guilt, but we Catholics perfected it." And if you, like me and this priest, believe that, averaged out, feelings of guilt do more good than harm, you may join in my special gratitude for reciprocate-favor tendency, no matter how unpleasant you find feelings of guilt.
+
 ---
 <br><br>
 __Influence-from-Mere-Association Tendency__<br>
 Enven association that appears to be trivial, if carefully planned, can have extreme and peculiar effects on purchasers of products. The target purchaser of shoe polish may like pretty girls. And so he chooses the polish with the pretty girl on the can or the one with the pretty girl in the last ad for shoe polish that he saw.
+
 ---
 <br><br>
 __Influence-from-Mere-Association Tendency__<br>
 The proper antidotes to being made such a patsy by past success are (1) to carefully examine each past success, looking for accidental, non-causative factors associated with such success that will tend to mislead as one appraises odds implicit in a proposed new undertaking and (2) to look for dangerous aspects of the new undertaking that were not present when past success occurred. 
+
 ---
 <br><br>
 Hating and disliking also cause miscalculation triggered by mere association. ln business, I commonly see people under appraise both the competency and morals of competitors they dislike.This is a dangerous practice, usually disguised because it occurs on a subconscious basis.
+
 ---
 <br><br>
 __Persian Messenger Syndrome__<br>
 Persian Messenger Syndrome is alive and well in modern life, albeit in less lethal versions.It is actually dangerous in many careers to be a carrier of unwelcome news. Union negotiators and employer representatives often know this,and it leads to many tragedies in labor relations. Sometimes lawyers, knowing their clients will hate them if they recommend an unwelcome but wise settlement, will carry on to disaster. 
+
 ---
 <br><br>
 __Persian Messenger Syndrome__<br>
 The proper antidote to creating Persian Messenger Syndrome and its bad effects, like those at CBS, is to develop, through exercise of will, a habit of welcoming bad news. At Berkshire, there is a common injunction: "Always tell us the bad news promptly. It is only the good news chat can wait." It also helps to be so wise and informed that people fear not telling you bad news because you are so likely to get it elsewhere.
+
 ---
 <br><br>
 __Hurting people helping you__<br>
 Influence-from -mere-Association Tendency often has a shocking effect that helps swamp the normal tendency to return favor for favor. Sometimes, when one receives a favor, his condition is unpleasant, due to poverty, sickness, subjugation, or something else. In addition the favor may trigger an envy-driven dislike for the person who was in so favorable a state that he could easily be a favor giver. Under such circumstances, the favor receiver, prompted partly by mere association of the favor giver with past pain, will not only dislike the man who helped him but also try to injure him. 
+
 ---
 <br><br>
 __Excessive Self-Regard Tendency__<br>
 We all commonly observe the excessive self-regard of man. He mostly misappraises himself on the high side [...] Such misappraisal also apply to a person's major "possession" [...] Once owned, they suddenly become worth more to him than he would pay if there were offered for sale to him and he didn't already own them. There is a name in psychology for this overappraise-your-own-possessiion phenomenon: the "endowment effect." And all man's decision are suddenly regarded by him as better than would have been the case just before he made them.
+
 ---
 <br><br>
 __Excessive Self-Regard Tendency effects on groups__<br>
 Some of the worst consequences in modern life come when dysfunctional groups of cliquish persons, dominated by Excessive Self-Regard Tendency, select as new members of their organizations persons who are very much like themselves. Thus if the English department at an elite university becomes mentally dysfunctional or the sales department of a brokerage firm slips into routine fraud, the problem will have a natural tendency to get worse and to be quite resistant to change for the better. 
+
 ---
 <br><br>
 __Excessive Self-Regard Tendency effects on hiring__<br>
 Excesses of self-regard often cuase bad hiring decisions because employers grossly overappraise the worth of their own conclusions that rely on impressions in face-to-face contact. The correct antidote to this sort of folly is to underweigh face-to-face impressions and overweigh the applicat's past record.
+
 ---
 <br><br>
 __Tolstoy on Excessive Self-Regard Tendency __<br>
@@ -737,6 +778,7 @@ According to Tolstoy, the worst criminal don't appraise themselves as all that b
 <br><br>
 __Antidote of Excessive Self-Regard Tendency __<br>
 Because a majority of mankind will try to get along by making way too many unreasonable excuses for fixable poor performance, it is very important to have personal and institutional antidotes limiting the ravages of such folly. On the personal level a man should try to face the two simple facts: (1) fixable but unfixed bad performance is bad character and tends to create more of itself, causing more damage to the excuse giver with each tolerated instance, and (2) in demanding places, like athletic teams and General Electric, you are almost sure to be discarded in due course if you keep giving excuses instead of behaving as you should. The main institutional antidotes to this part of the "Tolsroy effect" are (l) a fair, meritocratic, demanding culture plus personnel handling methods that build up morale and (2) severance of the worst offenders. Of course, when you can't sever, as in the case of your own child, you must try to fix the child as best you can.
+
 ---
 <br><br>
 __Antidote of Excessive Self-Regard Tendency __<br>
@@ -762,6 +804,7 @@ The Mungers once owned a tame and good-natured dog that displayed the canine ver
 <br><br>
 __Tendency sustaining extreme ideology__<br>
 It is almost everywhere the case that extremes of ideology are maintained with great intensity and with great antipathy to non-believers, causing extremes of cognitive dysfunction. This happens, I believe, because two psychological tendencies are usualy action concurrently toward this same sad result: (1) Iconsistency-Avoidance Tendency, plus (2) Deprival-Superreaction Tendency
+
 ---
 <br><br>
 __Deprival-Superreaction Tendency effect on labor relations__<br>
@@ -778,10 +821,12 @@ Psychology professors love Social-Proof  Tendency because in their experiments i
 <br><br>
 __Social-Proof on your people__<br>
 Judith Rich Harris who demonstrated that superrespect by young people for their peers, rather than for parents or other adults, is ordained to some considerable extent by the genes of the young people. This makes it wise for parents to rely more on manipulating the quality of the peers than on exhhortations to their own offspring.
+
 ---
 <br><br>
 __Social-Proof Tendency trigger__<br>
 When will Social-Proof Tendency be most easily triggered? Here the answer is clear from many experiments: Triggering most readily occurs in the presence of puzzlement or stress, and particulary when both exist.
+
 ---
 <br><br>
 __Serpico Effect__<br>
