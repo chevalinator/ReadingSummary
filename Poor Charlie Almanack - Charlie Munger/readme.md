@@ -746,6 +746,7 @@ The best antidote to folly from an excess of self-regard is to force yourself to
 <br><br>
 __Antidote to over-optimism tendency__<br>
 One standard antidote to foolish optimism is trained, habitual use of the simple probability math of Fermat and Pascal [...]. The mental rules of thumb that evolution gives you to deal with risk are not adequate. They ressemble the dysfunctional golf grip you would have if you relied on a grip driven by evolution instead of golf lessons.
+
 ---
 <br><br>
 __Deprival-Superreaction Tendency__<br>
@@ -795,10 +796,12 @@ If only one lesson is to be chosen from a package of lessons involving Social-Pr
 <br><br>
 __Contrast-Misreaction Tendency__<br>
 Contrast-Misreacrion Tendency is routinely used to cause disadvantage for customers buying merchandise and services. To make an ordinary price seem low, the vendor will very frequenntly create a highly artificial price that is much higher than the price always sought, then advertise his standard price as a big reduction from his phony price. Even when people know that this sort of customer manipulation is being attempted, it will often work to trigger buying. 
+
 ---
 <br><br>
 __Contrast-Misreaction Tendency example__<br>
-A buyer from out of the city, perhaps needing to shift his family there, ,visits the office with little time available. The salesman deliberately shows the customer three awful houses at ridiculously high prices. Then he shows him a merely bad house at a price only moderately too high. And, boom, the broker often makes an easy sale. 
+A buyer from out of the city, perhaps needing to shift his family there, ,visits the office with little time available. The salesman deliberately shows the customer three awful houses at ridiculously high prices. Then he shows him a merely bad house at a price only moderately too high. And, boom, the broker often makes an easy sale.
+ 
 ---
 <br><br>
 __Contrast-Misreaction Tendency small steps__<br>
