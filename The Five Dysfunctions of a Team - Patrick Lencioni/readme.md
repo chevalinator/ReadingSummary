@@ -6,9 +6,13 @@ Quotes and summary from [audible book](https://www.audible.ca/fr_CA/pd/The-Five-
 # Overview
 
 1. dysfunction: absence of trust among team members. Steam from unwillingness to be vulnerable among the group. 
+
 2. Fear of conflict. teams that lack trust are incapable of engaging in unfiltered and passionate debate of ideas. Instead they resort to vale discussion and garded comments.
+
 3. Lack of commitment. without having their opinion heard, team members rarely buyin and commit to decisions although they might feign agreement during meeting.
-4. Avoidance of accountability. Without commiting to a clear plan of action even the most focus and driven people often hesitate to call their peer on action and behaviors that are counterproductive to the good of the team.
+
+4. Avoidance of accountability. Without commiting to a clear plan of action even the most focus and driven people often hesitate to call their peer on action and behaviors that are counterproductive to the good of the team. 
+
 5. Inattention to results. Occurs when team members put their individual needs, such as ego, carreer development or recognition, above the collective goal of the team
 ----
 
