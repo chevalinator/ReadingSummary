@@ -81,7 +81,10 @@ Unresolvable discord deep in the organization can be a symptom of an executive t
 - Low risk exposure therapy. Demonstration of deciseness in low risk situation. Decision might not have been that much better if longer time has been used.
 
 Role of the leader: must be confortable with the prospect of making a decision that might be wrong. The leader must be constantly pushing the group toward closure of issues to respect deadline. Do not put too much importance on certainty and consensus.
+
+
 ----
+
 # Quotes
 
 Moments of truths are best handled face to face.
