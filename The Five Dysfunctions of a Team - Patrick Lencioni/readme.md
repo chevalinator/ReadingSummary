@@ -98,6 +98,25 @@ The most effective and efficient method of maintaining high standard of performa
 
 Role of leader: Encourage the team to serve as the 1st accountability mechanism. Sometime leaders create an environnement where they are themselves the only source of discipline. This create an environnement where team members assume that the leader is holding the others accountable and so hold back even when they see something that is not right. Leader should be the ultimate arbiter of discipline when the team fails. Accountability should not be perceived as being a consensus approach but merely a shared team responsibility.
 
+### Inattention to results
+
+Ultimate dysfunction is the tendency for members to care about something others than the care of the group.
+
+Results are not only related to financial results. One is related to outcome based performance. Every good organisation specify what it plans to acheive in a given period and this makeup the majority of makeup controlable results. 
+
+Team status and individual status are the prime candidate of this dysfunction.
+
+For members of some teams marely being member of the group keeps them satisfied. For them acheivement of specific results might be desirable but not necessarily worthy of great sacrifice or discomfort. Many teams falls prey to the lure of their status.
+
+Individual status is a familiar tendency for people to enhancing their own career at the expense of their team. A functional must make the success of the team more important than individual results. Many teams are not results focus but merely to exist or survive.
+
+#### Overcoming this dysfunction
+
+- Make results clear and reward only behaviors that contribute to those results. Result based rewards. Can be compensation.
+
+- Make public proclamation about public success. Teams that only say that they will do their best are substly preparing themselves for failure.
+
+Role of leader: leader must set the tone on results. More important than all other disfunctions. If leader values anything else than result they will take permission to do this for themselves. Team leaders must be selfless and objective. Reserve reward and recognition to thoses that make real contribution to the acheivement of group goals.
 
 ----
 
