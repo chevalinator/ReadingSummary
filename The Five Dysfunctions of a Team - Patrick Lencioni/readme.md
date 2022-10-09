@@ -40,7 +40,23 @@ Acheiving vulnerability based trust is difficult based in the course of career a
 
 Role of the leader: demonstrate vulnerability first. Must create an environment that doesn't punish vulnerability. Must be genuine, can't be staged.
 
+### Fer of Conflict
 
+Ideological conflict are limited concepts and ideas. They are not destructive fighting and personal politics.
+
+Goal is to product the best result in the shortest amount of time. It is a time saver. Those that avoid conflict do not fix the issue
+
+#### Overcoming this dysfunction
+
+- Acknoledging that conflict is productive and that many teams have tendency to avoid it.
+
+- Mining for conflict. Extract buried disagreement. Must callout senstive issues and call them out. Can assign a member of a team to this responsibility during a meeting.
+
+- Recognize when peer engaged in conflict becomes uncomfortable with the level of discord. Interrupt and remind that it is necessary. Effective tool from draining tension. At the end, remind that conflict are helpful for the team and not to be avoided
+
+- Thomas–Kilmann Conflict Mode Instrument
+
+Role of the leader: avoid temptation to protect members from harm. Like a child, deprives members of the skill to manage this themselves. Demonstrate restreint, allow resolution to occur naturally as messy as it can sometimes be. Do not avoid conflict himself.
 ----
 # Quotes
 
