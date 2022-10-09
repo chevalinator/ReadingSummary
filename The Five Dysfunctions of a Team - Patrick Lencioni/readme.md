@@ -82,6 +82,22 @@ Unresolvable discord deep in the organization can be a symptom of an executive t
 
 Role of the leader: must be confortable with the prospect of making a decision that might be wrong. The leader must be constantly pushing the group toward closure of issues to respect deadline. Do not put too much importance on certainty and consensus.
 
+### Avoidance of accountability
+
+Unwillingness of team member to call their peer on performance or behaviors that might hurt the team. 
+
+The most effective and efficient method of maintaining high standard of performance on a taem is peer pressure. One benefit is the need for excessive bureaucracy around management and corrective action.
+
+#### Overcoming this dysfunction
+
+-Adhering to classic management tool: publication of goals and standards. Ennemi of accountability is ambiguity. Clarify publicly exactly what the team needs to acheive and who needs to deliver what.
+
+- Simple and regular progress reviews. TEam members should regularily communicate with one another verbally or in written form about how they feel their teammate is faring against stated objectives and standards.
+
+- Team rewards. shift reward from individual to team can create a culture of accountability. 
+
+Role of leader: Encourage the team to 
+
 
 ----
 
