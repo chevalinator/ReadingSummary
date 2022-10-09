@@ -40,7 +40,7 @@ Acheiving vulnerability based trust is difficult based in the course of career a
 
 Role of the leader: demonstrate vulnerability first. Must create an environment that doesn't punish vulnerability. Must be genuine, can't be staged.
 
-### Fer of Conflict
+### Fear of Conflict
 
 Ideological conflict are limited concepts and ideas. They are not destructive fighting and personal politics.
 
@@ -57,6 +57,30 @@ Goal is to product the best result in the shortest amount of time. It is a time 
 - Thomas–Kilmann Conflict Mode Instrument
 
 Role of the leader: avoid temptation to protect members from harm. Like a child, deprives members of the skill to manage this themselves. Demonstrate restreint, allow resolution to occur naturally as messy as it can sometimes be. Do not avoid conflict himself.
+
+### Lack of commitment
+
+Context of team : clarity and buyin. Great teams make clear and timely decision. Move forward even those that voted against.
+
+2 greated causes for lack of commitment are desire for consensus and need to certainty.
+
+Consensus: dangerous. Find way to achevie buyin even when consensus is not reach. reasonable humanbeing  dont need to get their way to rather that their opinion has ben heard and considered. Great team ensure that everyone ideas are considered which create willingness to rally around the decision made by the group. When impossible the leader of the team is allowed to make the call
+
+Certainty: commit to clear course of action even though there is little insurance that the decision is correct. A decision is better than no decision. Better to make a decision boldly and be wrong and then change decision with equal boldness rather than it is to waffle. Dysfunctional edge their bet and can be dangerous because of the paralysis and lack of confidence that it brings. Oftentimes the team has all info needed but it must be extracted through healty debate.
+
+Unresolvable discord deep in the organization can be a symptom of an executive that doesnt commit to a decision. More than other dysfunction, this one create ripple effect. Employees will clash with employees in other deparment.
+
+#### Overcoming this dysfunction
+
+- Cascading messaging. End of staff meeting review key decision made and agree on what needs to be communicated to employees. Time required: 10 minutes
+
+- Deadline. Milestone and final deadline
+
+- Contengency and worst case scenario analysis. Reduce fear by identifying that the cost of bad decision is not that deamaging.
+
+- Low risk exposure therapy. Demonstration of deciseness in low risk situation. Decision might not have been that much better if longer time has been used.
+
+Role of the leader: must be confortable with the prospect of making a decision that might be wrong. The leader must be constantly pushing the group toward closure of issues to respect deadline. Do not put too much importance on certainty and consensus.
 ----
 # Quotes
 
