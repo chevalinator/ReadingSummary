@@ -16,10 +16,32 @@ Quotes and summary from [audible book](https://www.audible.ca/fr_CA/pd/The-Five-
 
 5. **Inattention to results.** Occurs when team members put their individual needs, such as ego, carreer development or recognition, above the collective goal of the team
 ----
+## Understanding and Overcoming the Five Dysfunctions
+
+### Absence of Trust
+
+In the context of builidng a team trust, means that the intention of their team members are good and they have no reasons to be protective or careful around the group. Must be confortable be vulnerable among each other.
+
+Doesn't mean predict behavior based on past experience. This doesn't represent the trust that is needed to build a good team.
+
+Acheiving vulnerability based trust is difficult based in the course of career advancement most successful people learn to be competive among each other and protective of their reputation.
+
+#### Overcoming this dysfunction
+
+- Personal history exercise. Go around a table during the meeting and have team members answer a short list of questions among themselves such as number of syblings, hometown, unique challenges of childhood, first job, worst job, favorite hobby. Time required : 30 mins
+
+- Team effectiveness exercise. Identity the single most contribution that each of their peer bring to the team. Report their responses focusing on 1 person at the time beginning with the team member. Time required: 60 mins
+
+-Personality and behavioral perferences. MBTI. Non judgemental nature. time required : 4 hours
+
+-360 feedback. Riskier than other tools. requires peers to make specific judgment on each others. Do not link to compensation or repercussion.
+
+-Experiencal team exercises.
+
+Role of the leader: demonstrate vulnerability first. Must create an environment that doesn't punish vulnerability. Must be genuine, can't be staged.
 
 
-
-
+----
 # Quotes
 
 Moments of truths are best handled face to face.
