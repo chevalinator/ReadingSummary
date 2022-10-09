@@ -96,7 +96,7 @@ The most effective and efficient method of maintaining high standard of performa
 
 - Team rewards. shift reward from individual to team can create a culture of accountability. 
 
-Role of leader: Encourage the team to 
+Role of leader: Encourage the team to  
 
 
 ----
