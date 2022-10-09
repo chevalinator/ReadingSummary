@@ -96,7 +96,7 @@ The most effective and efficient method of maintaining high standard of performa
 
 - Team rewards. shift reward from individual to team can create a culture of accountability. 
 
-Role of leader: Encourage the team to  
+Role of leader: Encourage the team to serve as the 1st accountability mechanism. Sometime leaders create an environnement where they are themselves the only source of discipline. This create an environnement where team members assume that the leader is holding the others accountable and so hold back even when they see something that is not right. Leader should be the ultimate arbiter of discipline when the team fails. Accountability should not be perceived as being a consensus approach but merely a shared team responsibility.
 
 
 ----
