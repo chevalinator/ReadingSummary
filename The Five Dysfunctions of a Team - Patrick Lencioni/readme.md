@@ -172,5 +172,15 @@ Avoidance of accountability. Once we acheive clarity and buyin it is then that w
 
 Trust, engage in conflict, commit to group decision, hold your peers accountable and focus on the results of the team not their own ego.
 
+-----
 
+The reality remains that teamworks ultimately comes down to practicing a small set of principles over a long period of time.
+
+-----
+
+Success is not a matter of mastering subtle sophisticated theories but rather embracing common sense with uncommon level of discipline and persistence.
+
+----
+
+Team succeed because they are exidincly humans by acknoledging the imperfection of their humanity members of functional teams overcome the natural tendency that make trust, conflict, commitment, accountable, and focus on result so elusive.
 
