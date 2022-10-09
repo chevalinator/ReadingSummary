@@ -32,11 +32,11 @@ Acheiving vulnerability based trust is difficult based in the course of career a
 
 - Team effectiveness exercise. Identity the single most contribution that each of their peer bring to the team. Report their responses focusing on 1 person at the time beginning with the team member. Time required: 60 mins
 
--Personality and behavioral perferences. MBTI. Non judgemental nature. time required : 4 hours
+- Personality and behavioral perferences. MBTI. Non judgemental nature. time required : 4 hours
 
--360 feedback. Riskier than other tools. requires peers to make specific judgment on each others. Do not link to compensation or repercussion.
+- 360 feedback. Riskier than other tools. requires peers to make specific judgment on each others. Do not link to compensation or repercussion.
 
--Experiencal team exercises.
+- Experiencal team exercises.
 
 Role of the leader: demonstrate vulnerability first. Must create an environment that doesn't punish vulnerability. Must be genuine, can't be staged.
 
